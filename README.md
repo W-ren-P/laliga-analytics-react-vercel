@@ -1,3 +1,12 @@
+# Summary
+
+Statistics from the 2024-25 La Liga football season.
+
+https://laliga-analytics-node-react.vercel.app/
+
+The data comes from static JSON files, which has the downside of meaning the full dataset is publicly accessible.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
