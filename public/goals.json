@@ -1,0 +1,8162 @@
+[
+  {
+    "goal_id": 1,
+    "match_id": 1821429,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 27.0
+  },
+  {
+    "goal_id": 2,
+    "match_id": 1821429,
+    "team_code": 819,
+    "scorer_name": "Christantus Uche",
+    "scorer_code": 531674.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 3,
+    "match_id": 1821430,
+    "team_code": 54,
+    "scorer_name": "Marc Bartra",
+    "scorer_code": 83686.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 4,
+    "match_id": 1821430,
+    "team_code": 2783,
+    "scorer_name": "Gabriel Misehouy",
+    "scorer_code": 467716.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 5,
+    "match_id": 1821431,
+    "team_code": 52,
+    "scorer_name": "Rodrygo",
+    "scorer_code": 347862.0,
+    "minute": 13.0
+  },
+  {
+    "goal_id": 6,
+    "match_id": 1821431,
+    "team_code": 51,
+    "scorer_name": "Vedat Muriqi",
+    "scorer_code": 254352.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 7,
+    "match_id": 1821432,
+    "team_code": 67,
+    "scorer_name": "Álex Suárez",
+    "scorer_code": 448204.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 8,
+    "match_id": 1821432,
+    "team_code": 838,
+    "scorer_name": "Tanguy Nianzou",
+    "scorer_code": 382492.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 9,
+    "match_id": 1821432,
+    "team_code": 67,
+    "scorer_name": "Juanlu Sánchez",
+    "scorer_code": 395187.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 10,
+    "match_id": 1821432,
+    "team_code": 838,
+    "scorer_name": "Sandro Ramírez",
+    "scorer_code": 135242.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 11,
+    "match_id": 1821433,
+    "team_code": 839,
+    "scorer_name": "Arnaut Danjuma",
+    "scorer_code": 323625.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 12,
+    "match_id": 1821433,
+    "team_code": 63,
+    "scorer_name": "Marcos Llorente",
+    "scorer_code": 254582.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 13,
+    "match_id": 1821433,
+    "team_code": 839,
+    "scorer_name": "Koke",
+    "scorer_code": 80764.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 14,
+    "match_id": 1821433,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 15,
+    "match_id": 1821434,
+    "team_code": 55,
+    "scorer_name": "Hugo Duro",
+    "scorer_code": 354526.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 16,
+    "match_id": 1821434,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 17,
+    "match_id": 1821434,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 18,
+    "match_id": 1821435,
+    "team_code": 64,
+    "scorer_name": "Jorge de Frutos",
+    "scorer_code": 386230.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 19,
+    "match_id": 1821435,
+    "team_code": 64,
+    "scorer_name": "Sergio Camello",
+    "scorer_code": 372469.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 20,
+    "match_id": 1821435,
+    "team_code": 68,
+    "scorer_name": "Martín Zubimendi",
+    "scorer_code": 372424.0,
+    "minute": 97.0
+  },
+  {
+    "goal_id": 21,
+    "match_id": 1821436,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 22,
+    "match_id": 1821436,
+    "team_code": 62,
+    "scorer_name": "Williot Swedberg",
+    "scorer_code": 444227.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 23,
+    "match_id": 1821436,
+    "team_code": 62,
+    "scorer_name": "Iago Aspas",
+    "scorer_code": 91242.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 24,
+    "match_id": 1821437,
+    "team_code": 825,
+    "scorer_name": "Juan Cruz",
+    "scorer_code": 357786.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 25,
+    "match_id": 1821437,
+    "team_code": 131,
+    "scorer_name": "Juan Soriano",
+    "scorer_code": 243554.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 26,
+    "match_id": 1821438,
+    "team_code": 63,
+    "scorer_name": "Antoine Griezmann",
+    "scorer_code": 80241.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 27,
+    "match_id": 1821438,
+    "team_code": 63,
+    "scorer_name": "Marcos Llorente",
+    "scorer_code": 254582.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 28,
+    "match_id": 1821438,
+    "team_code": 63,
+    "scorer_name": "Koke",
+    "scorer_code": 80764.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 29,
+    "match_id": 1821439,
+    "team_code": 55,
+    "scorer_name": "Diego López",
+    "scorer_code": 422656.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 30,
+    "match_id": 1821439,
+    "team_code": 62,
+    "scorer_name": "Óscar Mingueza",
+    "scorer_code": 397469.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 31,
+    "match_id": 1821439,
+    "team_code": 62,
+    "scorer_name": "Iago Aspas",
+    "scorer_code": 91242.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 32,
+    "match_id": 1821439,
+    "team_code": 62,
+    "scorer_name": "Fran Beltrán",
+    "scorer_code": 362421.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 33,
+    "match_id": 1821441,
+    "team_code": 52,
+    "scorer_name": "Federico Valverde",
+    "scorer_code": 344644.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 34,
+    "match_id": 1821441,
+    "team_code": 52,
+    "scorer_name": "Brahim Díaz",
+    "scorer_code": 317541.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 35,
+    "match_id": 1821441,
+    "team_code": 52,
+    "scorer_name": "Endrick",
+    "scorer_code": 445649.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 36,
+    "match_id": 1821442,
+    "team_code": 839,
+    "scorer_name": "Arnaut Danjuma",
+    "scorer_code": 323625.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 37,
+    "match_id": 1821442,
+    "team_code": 67,
+    "scorer_name": "Dodi Lukébakio",
+    "scorer_code": 299490.0,
+    "minute": 52.0
+  },
+  {
+    "goal_id": 38,
+    "match_id": 1821442,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 39,
+    "match_id": 1821444,
+    "team_code": 825,
+    "scorer_name": "Juan Cruz",
+    "scorer_code": 357786.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 40,
+    "match_id": 1821444,
+    "team_code": 825,
+    "scorer_name": "Enric Franquesa",
+    "scorer_code": 422768.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 41,
+    "match_id": 1821444,
+    "team_code": 838,
+    "scorer_name": "Sandro Ramírez",
+    "scorer_code": 135242.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 42,
+    "match_id": 1821445,
+    "team_code": 65,
+    "scorer_name": "Lamine Yamal",
+    "scorer_code": 480249.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 43,
+    "match_id": 1821445,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 44,
+    "match_id": 1821445,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 45,
+    "match_id": 1821446,
+    "team_code": 131,
+    "scorer_name": "Rubén García",
+    "scorer_code": 119189.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 46,
+    "match_id": 1821447,
+    "team_code": 53,
+    "scorer_name": "Beñat Prados",
+    "scorer_code": 414643.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 47,
+    "match_id": 1821448,
+    "team_code": 54,
+    "scorer_name": "Giovani Lo Celso",
+    "scorer_code": 303908.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 48,
+    "match_id": 1821448,
+    "team_code": 54,
+    "scorer_name": "Giovani Lo Celso",
+    "scorer_code": 303908.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 49,
+    "match_id": 1821448,
+    "team_code": 819,
+    "scorer_name": "Mauro Arambarri",
+    "scorer_code": 303016.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 50,
+    "match_id": 1821449,
+    "team_code": 2783,
+    "scorer_name": "Bryan Gil",
+    "scorer_code": 368519.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 51,
+    "match_id": 1821449,
+    "team_code": 2783,
+    "scorer_name": "Viktor Tsyhankov",
+    "scorer_code": 231125.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 52,
+    "match_id": 1821449,
+    "team_code": 2783,
+    "scorer_name": "Abel Ruiz",
+    "scorer_code": 372828.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 53,
+    "match_id": 1821449,
+    "team_code": 2783,
+    "scorer_name": "Cristhian Stuani",
+    "scorer_code": 24400.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 54,
+    "match_id": 1821451,
+    "team_code": 838,
+    "scorer_name": "Alberto Moleiro",
+    "scorer_code": 448211.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 55,
+    "match_id": 1821451,
+    "team_code": 52,
+    "scorer_name": "Vinícius Júnior",
+    "scorer_code": 337782.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 56,
+    "match_id": 1821452,
+    "team_code": 64,
+    "scorer_name": "Unai López",
+    "scorer_code": 236575.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 57,
+    "match_id": 1821452,
+    "team_code": 65,
+    "scorer_name": "Pedri",
+    "scorer_code": 402197.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 58,
+    "match_id": 1821452,
+    "team_code": 65,
+    "scorer_name": "Dani Olmo",
+    "scorer_code": 261212.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 59,
+    "match_id": 1821453,
+    "team_code": 62,
+    "scorer_name": "Borja Iglesias",
+    "scorer_code": 259042.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 60,
+    "match_id": 1821453,
+    "team_code": 839,
+    "scorer_name": "Sergi Cardona",
+    "scorer_code": 448209.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 61,
+    "match_id": 1821453,
+    "team_code": 62,
+    "scorer_name": "Óscar Mingueza",
+    "scorer_code": 397469.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 62,
+    "match_id": 1821453,
+    "team_code": 839,
+    "scorer_name": "Thierno Barry",
+    "scorer_code": 537713.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 63,
+    "match_id": 1821453,
+    "team_code": 839,
+    "scorer_name": "Jailson",
+    "scorer_code": 318314.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 64,
+    "match_id": 1821453,
+    "team_code": 62,
+    "scorer_name": "Carl Starfelt",
+    "scorer_code": 378626.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 65,
+    "match_id": 1821453,
+    "team_code": 839,
+    "scorer_name": "Dani Parejo",
+    "scorer_code": 28186.0,
+    "minute": 99.0
+  },
+  {
+    "goal_id": 66,
+    "match_id": 1821454,
+    "team_code": 68,
+    "scorer_name": "Brais Méndez",
+    "scorer_code": 344542.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 67,
+    "match_id": 1821454,
+    "team_code": 60,
+    "scorer_name": "Asier Villalibre",
+    "scorer_code": 331171.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 68,
+    "match_id": 1821454,
+    "team_code": 60,
+    "scorer_name": "Toni Martínez",
+    "scorer_code": 280060.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 69,
+    "match_id": 1821456,
+    "team_code": 63,
+    "scorer_name": "Ángel Correa",
+    "scorer_code": 127604.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 70,
+    "match_id": 1821457,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 71,
+    "match_id": 1821457,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 72,
+    "match_id": 1821457,
+    "team_code": 65,
+    "scorer_name": "Jules Koundé",
+    "scorer_code": 301019.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 73,
+    "match_id": 1821457,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 74,
+    "match_id": 1821457,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 75,
+    "match_id": 1821457,
+    "team_code": 65,
+    "scorer_name": "Dani Olmo",
+    "scorer_code": 261212.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 76,
+    "match_id": 1821457,
+    "team_code": 65,
+    "scorer_name": "Ferran Torres",
+    "scorer_code": 349760.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 77,
+    "match_id": 1821459,
+    "team_code": 55,
+    "scorer_name": "Hugo Duro",
+    "scorer_code": 354526.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 78,
+    "match_id": 1821459,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 79,
+    "match_id": 1821460,
+    "team_code": 60,
+    "scorer_name": "Carlos Vicente",
+    "scorer_code": 462861.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 80,
+    "match_id": 1821460,
+    "team_code": 60,
+    "scorer_name": "Toni Martínez",
+    "scorer_code": 280060.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 81,
+    "match_id": 1821461,
+    "team_code": 51,
+    "scorer_name": "Dani Rodríguez",
+    "scorer_code": 6227.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 82,
+    "match_id": 1821462,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 83,
+    "match_id": 1821462,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 84,
+    "match_id": 1821463,
+    "team_code": 131,
+    "scorer_name": "Enzo Boyomo",
+    "scorer_code": 447842.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 85,
+    "match_id": 1821463,
+    "team_code": 62,
+    "scorer_name": "Borja Iglesias",
+    "scorer_code": 259042.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 86,
+    "match_id": 1821463,
+    "team_code": 131,
+    "scorer_name": "Carlos Domínguez",
+    "scorer_code": 415344.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 87,
+    "match_id": 1821463,
+    "team_code": 131,
+    "scorer_name": "Abel Bretones",
+    "scorer_code": 461771.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 88,
+    "match_id": 1821463,
+    "team_code": 62,
+    "scorer_name": "Moi Gómez",
+    "scorer_code": 101238.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 89,
+    "match_id": 1821464,
+    "team_code": 2783,
+    "scorer_name": "Iván Martín",
+    "scorer_code": 372473.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 90,
+    "match_id": 1821464,
+    "team_code": 2783,
+    "scorer_name": "Abel Ruiz",
+    "scorer_code": 372828.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 91,
+    "match_id": 1821465,
+    "team_code": 63,
+    "scorer_name": "Conor Gallagher",
+    "scorer_code": 375621.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 92,
+    "match_id": 1821465,
+    "team_code": 63,
+    "scorer_name": "Antoine Griezmann",
+    "scorer_code": 80241.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 93,
+    "match_id": 1821465,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 94,
+    "match_id": 1821466,
+    "team_code": 54,
+    "scorer_name": "Abde Ezzalzouli",
+    "scorer_code": 427283.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 95,
+    "match_id": 1821466,
+    "team_code": 54,
+    "scorer_name": "Vitor Roque",
+    "scorer_code": 437157.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 96,
+    "match_id": 1821467,
+    "team_code": 62,
+    "scorer_name": "Hugo Álvarez",
+    "scorer_code": 427001.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 97,
+    "match_id": 1821467,
+    "team_code": 62,
+    "scorer_name": "Borja Iglesias",
+    "scorer_code": 259042.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 98,
+    "match_id": 1821467,
+    "team_code": 58,
+    "scorer_name": "Raúl Moro",
+    "scorer_code": 396490.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 99,
+    "match_id": 1821467,
+    "team_code": 62,
+    "scorer_name": "Tasos Douvikas",
+    "scorer_code": 422873.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 100,
+    "match_id": 1821468,
+    "team_code": 839,
+    "scorer_name": "Logan Costa",
+    "scorer_code": 389130.0,
+    "minute": 27.0
+  },
+  {
+    "goal_id": 101,
+    "match_id": 1821468,
+    "team_code": 51,
+    "scorer_name": "Raúl Albiol",
+    "scorer_code": 12575.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 102,
+    "match_id": 1821468,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 103,
+    "match_id": 1821469,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 104,
+    "match_id": 1821469,
+    "team_code": 53,
+    "scorer_name": "Nico Williams",
+    "scorer_code": 408449.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 105,
+    "match_id": 1821469,
+    "team_code": 838,
+    "scorer_name": "Sandro Ramírez",
+    "scorer_code": 135242.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 106,
+    "match_id": 1821469,
+    "team_code": 53,
+    "scorer_name": "Aitor Paredes",
+    "scorer_code": 402663.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 107,
+    "match_id": 1821469,
+    "team_code": 838,
+    "scorer_name": "Álex Muñoz",
+    "scorer_code": 140982.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 108,
+    "match_id": 1821470,
+    "team_code": 65,
+    "scorer_name": "Lamine Yamal",
+    "scorer_code": 480249.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 109,
+    "match_id": 1821470,
+    "team_code": 65,
+    "scorer_name": "Lamine Yamal",
+    "scorer_code": 480249.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 110,
+    "match_id": 1821470,
+    "team_code": 65,
+    "scorer_name": "Dani Olmo",
+    "scorer_code": 261212.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 111,
+    "match_id": 1821470,
+    "team_code": 65,
+    "scorer_name": "Pedri",
+    "scorer_code": 402197.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 112,
+    "match_id": 1821470,
+    "team_code": 2783,
+    "scorer_name": "Cristhian Stuani",
+    "scorer_code": 24400.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 113,
+    "match_id": 1821471,
+    "team_code": 67,
+    "scorer_name": "Jesús Navas",
+    "scorer_code": 9446.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 114,
+    "match_id": 1821472,
+    "team_code": 131,
+    "scorer_name": "Raúl García",
+    "scorer_code": 383924.0,
+    "minute": 27.0
+  },
+  {
+    "goal_id": 115,
+    "match_id": 1821472,
+    "team_code": 64,
+    "scorer_name": "Abdul Mumin",
+    "scorer_code": 400844.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 116,
+    "match_id": 1821472,
+    "team_code": 64,
+    "scorer_name": "Andrei Ratiu",
+    "scorer_code": 372331.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 117,
+    "match_id": 1821472,
+    "team_code": 64,
+    "scorer_name": "Unai López",
+    "scorer_code": 236575.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 118,
+    "match_id": 1821473,
+    "team_code": 52,
+    "scorer_name": "Vinícius Júnior",
+    "scorer_code": 337782.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 119,
+    "match_id": 1821473,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 120,
+    "match_id": 1821474,
+    "team_code": 53,
+    "scorer_name": "Gorka Guruzeta",
+    "scorer_code": 362602.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 121,
+    "match_id": 1821474,
+    "team_code": 62,
+    "scorer_name": "Iago Aspas",
+    "scorer_code": 91242.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 122,
+    "match_id": 1821474,
+    "team_code": 53,
+    "scorer_name": "Gorka Guruzeta",
+    "scorer_code": 362602.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 123,
+    "match_id": 1821474,
+    "team_code": 53,
+    "scorer_name": "Álvaro Djaló",
+    "scorer_code": 444806.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 124,
+    "match_id": 1821475,
+    "team_code": 54,
+    "scorer_name": "Giovani Lo Celso",
+    "scorer_code": 303908.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 125,
+    "match_id": 1821475,
+    "team_code": 51,
+    "scorer_name": "Dani Rodríguez",
+    "scorer_code": 6227.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 126,
+    "match_id": 1821475,
+    "team_code": 51,
+    "scorer_name": "Valery Fernández",
+    "scorer_code": 365619.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 127,
+    "match_id": 1821476,
+    "team_code": 825,
+    "scorer_name": "Jorge Sáenz",
+    "scorer_code": 381584.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 128,
+    "match_id": 1821476,
+    "team_code": 819,
+    "scorer_name": "Borja Mayoral",
+    "scorer_code": 278721.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 129,
+    "match_id": 1821477,
+    "team_code": 60,
+    "scorer_name": "Carlos Vicente",
+    "scorer_code": 462861.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 130,
+    "match_id": 1821477,
+    "team_code": 60,
+    "scorer_name": "Carlos Martín",
+    "scorer_code": 427360.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 131,
+    "match_id": 1821477,
+    "team_code": 67,
+    "scorer_name": "Dodi Lukébakio",
+    "scorer_code": 299490.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 132,
+    "match_id": 1821478,
+    "team_code": 64,
+    "scorer_name": "Isi Palazón",
+    "scorer_code": 422959.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 133,
+    "match_id": 1821478,
+    "team_code": 63,
+    "scorer_name": "Conor Gallagher",
+    "scorer_code": 375621.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 134,
+    "match_id": 1821479,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 135,
+    "match_id": 1821479,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 136,
+    "match_id": 1821479,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 137,
+    "match_id": 1821479,
+    "team_code": 65,
+    "scorer_name": "Pablo Torre",
+    "scorer_code": 445092.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 138,
+    "match_id": 1821479,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 139,
+    "match_id": 1821479,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 140,
+    "match_id": 1821480,
+    "team_code": 55,
+    "scorer_name": "Luis Rioja",
+    "scorer_code": 381713.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 141,
+    "match_id": 1821480,
+    "team_code": 55,
+    "scorer_name": "Dani Gómez",
+    "scorer_code": 400358.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 142,
+    "match_id": 1821482,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 143,
+    "match_id": 1821482,
+    "team_code": 838,
+    "scorer_name": "Alberto Moleiro",
+    "scorer_code": 448211.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 144,
+    "match_id": 1821482,
+    "team_code": 131,
+    "scorer_name": "Aimar Oroz",
+    "scorer_code": 395321.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 145,
+    "match_id": 1821483,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 146,
+    "match_id": 1821485,
+    "team_code": 51,
+    "scorer_name": "Abdón Prats",
+    "scorer_code": 9270.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 147,
+    "match_id": 1821486,
+    "team_code": 67,
+    "scorer_name": "David Torres",
+    "scorer_code": 449429.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 148,
+    "match_id": 1821486,
+    "team_code": 58,
+    "scorer_name": "Kike Pérez",
+    "scorer_code": 395579.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 149,
+    "match_id": 1821486,
+    "team_code": 67,
+    "scorer_name": "Chidera Ejuke",
+    "scorer_code": 337022.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 150,
+    "match_id": 1821487,
+    "team_code": 53,
+    "scorer_name": "Dani Vivian",
+    "scorer_code": 357839.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 151,
+    "match_id": 1821487,
+    "team_code": 53,
+    "scorer_name": "Iñaki Williams",
+    "scorer_code": 255182.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 152,
+    "match_id": 1821488,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 153,
+    "match_id": 1821489,
+    "team_code": 838,
+    "scorer_name": "Alberto Moleiro",
+    "scorer_code": 448211.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 154,
+    "match_id": 1821489,
+    "team_code": 54,
+    "scorer_name": "Giovani Lo Celso",
+    "scorer_code": 303908.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 155,
+    "match_id": 1821491,
+    "team_code": 52,
+    "scorer_name": "Lucas Vázquez",
+    "scorer_code": 144511.0,
+    "minute": 1.0
+  },
+  {
+    "goal_id": 156,
+    "match_id": 1821491,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 157,
+    "match_id": 1821491,
+    "team_code": 52,
+    "scorer_name": "Rodrygo",
+    "scorer_code": 347862.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 158,
+    "match_id": 1821491,
+    "team_code": 60,
+    "scorer_name": "Carlos Benavídez",
+    "scorer_code": 362393.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 159,
+    "match_id": 1821491,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 160,
+    "match_id": 1821492,
+    "team_code": 53,
+    "scorer_name": "Mikel Jauregizar",
+    "scorer_code": 511120.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 161,
+    "match_id": 1821492,
+    "team_code": 67,
+    "scorer_name": "Álex Padilla",
+    "scorer_code": 449383.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 162,
+    "match_id": 1821493,
+    "team_code": 52,
+    "scorer_name": "Éder Militão",
+    "scorer_code": 337879.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 163,
+    "match_id": 1821493,
+    "team_code": 63,
+    "scorer_name": "Ángel Correa",
+    "scorer_code": 127604.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 164,
+    "match_id": 1821494,
+    "team_code": 2783,
+    "scorer_name": "Yangel Herrera",
+    "scorer_code": 318505.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 165,
+    "match_id": 1821494,
+    "team_code": 62,
+    "scorer_name": "Iago Aspas",
+    "scorer_code": 91242.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 166,
+    "match_id": 1821495,
+    "team_code": 68,
+    "scorer_name": "Takefusa Kubo",
+    "scorer_code": 377285.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 167,
+    "match_id": 1821495,
+    "team_code": 68,
+    "scorer_name": "Orri Óskarsson",
+    "scorer_code": 428066.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 168,
+    "match_id": 1821495,
+    "team_code": 68,
+    "scorer_name": "Orri Óskarsson",
+    "scorer_code": 428066.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 169,
+    "match_id": 1821496,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 170,
+    "match_id": 1821496,
+    "team_code": 131,
+    "scorer_name": "Bryan Zaragoza",
+    "scorer_code": 429273.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 171,
+    "match_id": 1821496,
+    "team_code": 65,
+    "scorer_name": "Pau Víctor",
+    "scorer_code": 444243.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 172,
+    "match_id": 1821496,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 173,
+    "match_id": 1821496,
+    "team_code": 131,
+    "scorer_name": "Abel Bretones",
+    "scorer_code": 461771.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 174,
+    "match_id": 1821496,
+    "team_code": 65,
+    "scorer_name": "Lamine Yamal",
+    "scorer_code": 480249.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 175,
+    "match_id": 1821497,
+    "team_code": 51,
+    "scorer_name": "Cyle Larin",
+    "scorer_code": 273229.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 176,
+    "match_id": 1821497,
+    "team_code": 51,
+    "scorer_name": "Valery Fernández",
+    "scorer_code": 365619.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 177,
+    "match_id": 1821497,
+    "team_code": 58,
+    "scorer_name": "Iván Sánchez",
+    "scorer_code": 278722.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 178,
+    "match_id": 1821498,
+    "team_code": 839,
+    "scorer_name": "Nicolas Pépé",
+    "scorer_code": 239872.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 179,
+    "match_id": 1821498,
+    "team_code": 838,
+    "scorer_name": "Fábio Silva",
+    "scorer_code": 380655.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 180,
+    "match_id": 1821498,
+    "team_code": 839,
+    "scorer_name": "Thierno Barry",
+    "scorer_code": 537713.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 181,
+    "match_id": 1821498,
+    "team_code": 839,
+    "scorer_name": "Álex Baena",
+    "scorer_code": 395242.0,
+    "minute": 96.0
+  },
+  {
+    "goal_id": 182,
+    "match_id": 1821499,
+    "team_code": 819,
+    "scorer_name": "Mauro Arambarri",
+    "scorer_code": 303016.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 183,
+    "match_id": 1821499,
+    "team_code": 819,
+    "scorer_name": "Luis Milla",
+    "scorer_code": 279320.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 184,
+    "match_id": 1821500,
+    "team_code": 64,
+    "scorer_name": "Sergio Camello",
+    "scorer_code": 372469.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 185,
+    "match_id": 1821500,
+    "team_code": 825,
+    "scorer_name": "Juan Cruz",
+    "scorer_code": 357786.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 186,
+    "match_id": 1821501,
+    "team_code": 819,
+    "scorer_name": "Bertug Yildirim",
+    "scorer_code": 422796.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 187,
+    "match_id": 1821501,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 188,
+    "match_id": 1821502,
+    "team_code": 52,
+    "scorer_name": "Federico Valverde",
+    "scorer_code": 344644.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 189,
+    "match_id": 1821502,
+    "team_code": 52,
+    "scorer_name": "Vinícius Júnior",
+    "scorer_code": 337782.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 190,
+    "match_id": 1821503,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 191,
+    "match_id": 1821503,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 192,
+    "match_id": 1821503,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 193,
+    "match_id": 1821512,
+    "team_code": 2783,
+    "scorer_name": "Yáser Asprilla",
+    "scorer_code": 443540.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 194,
+    "match_id": 1821512,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 195,
+    "match_id": 1821512,
+    "team_code": 2783,
+    "scorer_name": "Cristhian Stuani",
+    "scorer_code": 24400.0,
+    "minute": 98.0
+  },
+  {
+    "goal_id": 196,
+    "match_id": 1821513,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 1.0
+  },
+  {
+    "goal_id": 197,
+    "match_id": 1821513,
+    "team_code": 68,
+    "scorer_name": "Luka Sucic",
+    "scorer_code": 407080.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 198,
+    "match_id": 1821514,
+    "team_code": 67,
+    "scorer_name": "Dodi Lukébakio",
+    "scorer_code": 299490.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 199,
+    "match_id": 1821515,
+    "team_code": 62,
+    "scorer_name": "Borja Iglesias",
+    "scorer_code": 259042.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 200,
+    "match_id": 1821516,
+    "team_code": 58,
+    "scorer_name": "Selim Amallah",
+    "scorer_code": 384578.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 201,
+    "match_id": 1821516,
+    "team_code": 64,
+    "scorer_name": "Jorge de Frutos",
+    "scorer_code": 386230.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 202,
+    "match_id": 1821516,
+    "team_code": 64,
+    "scorer_name": "Jorge de Frutos",
+    "scorer_code": 386230.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 203,
+    "match_id": 1821517,
+    "team_code": 825,
+    "scorer_name": "Yvan Neyou",
+    "scorer_code": 396583.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 204,
+    "match_id": 1821517,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 205,
+    "match_id": 1821517,
+    "team_code": 63,
+    "scorer_name": "Antoine Griezmann",
+    "scorer_code": 80241.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 206,
+    "match_id": 1821517,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 99.0
+  },
+  {
+    "goal_id": 207,
+    "match_id": 1821518,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 208,
+    "match_id": 1821518,
+    "team_code": 65,
+    "scorer_name": "Pedri",
+    "scorer_code": 402197.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 209,
+    "match_id": 1821518,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 210,
+    "match_id": 1821518,
+    "team_code": 65,
+    "scorer_name": "Pablo Torre",
+    "scorer_code": 445092.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 211,
+    "match_id": 1821518,
+    "team_code": 67,
+    "scorer_name": "Stanis Idumbo Muzambo",
+    "scorer_code": 516051.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 212,
+    "match_id": 1821518,
+    "team_code": 65,
+    "scorer_name": "Pablo Torre",
+    "scorer_code": 445092.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 213,
+    "match_id": 1821519,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 214,
+    "match_id": 1821519,
+    "team_code": 62,
+    "scorer_name": "Williot Swedberg",
+    "scorer_code": 444227.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 215,
+    "match_id": 1821519,
+    "team_code": 52,
+    "scorer_name": "Vinícius Júnior",
+    "scorer_code": 337782.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 216,
+    "match_id": 1821520,
+    "team_code": 68,
+    "scorer_name": "Mikel Oyarzabal",
+    "scorer_code": 298839.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 217,
+    "match_id": 1821521,
+    "team_code": 51,
+    "scorer_name": "Vedat Muriqi",
+    "scorer_code": 254352.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 218,
+    "match_id": 1821522,
+    "team_code": 60,
+    "scorer_name": "Toni Martínez",
+    "scorer_code": 280060.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 219,
+    "match_id": 1821522,
+    "team_code": 58,
+    "scorer_name": "Mamadou Sylla",
+    "scorer_code": 294008.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 220,
+    "match_id": 1821522,
+    "team_code": 58,
+    "scorer_name": "Selim Amallah",
+    "scorer_code": 384578.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 221,
+    "match_id": 1821522,
+    "team_code": 58,
+    "scorer_name": "Anuar Tuhami",
+    "scorer_code": 242776.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 222,
+    "match_id": 1821522,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 96.0
+  },
+  {
+    "goal_id": 223,
+    "match_id": 1821523,
+    "team_code": 54,
+    "scorer_name": "Vitor Roque",
+    "scorer_code": 437157.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 224,
+    "match_id": 1821523,
+    "team_code": 131,
+    "scorer_name": "Lucas Torró",
+    "scorer_code": 249960.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 225,
+    "match_id": 1821523,
+    "team_code": 54,
+    "scorer_name": "Chimy Ávila",
+    "scorer_code": 303707.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 226,
+    "match_id": 1821524,
+    "team_code": 839,
+    "scorer_name": "Santi Comesaña",
+    "scorer_code": 362735.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 227,
+    "match_id": 1821524,
+    "team_code": 819,
+    "scorer_name": "Mauro Arambarri",
+    "scorer_code": 303016.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 228,
+    "match_id": 1821525,
+    "team_code": 55,
+    "scorer_name": "Pepelu",
+    "scorer_code": 302889.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 229,
+    "match_id": 1821525,
+    "team_code": 838,
+    "scorer_name": "Álex Muñoz",
+    "scorer_code": 140982.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 230,
+    "match_id": 1821525,
+    "team_code": 838,
+    "scorer_name": "Fábio Silva",
+    "scorer_code": 380655.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 231,
+    "match_id": 1821525,
+    "team_code": 838,
+    "scorer_name": "Alberto Moleiro",
+    "scorer_code": 448211.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 232,
+    "match_id": 1821525,
+    "team_code": 55,
+    "scorer_name": "César Tárrega",
+    "scorer_code": 427831.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 233,
+    "match_id": 1821526,
+    "team_code": 55,
+    "scorer_name": "Enzo Barrenechea",
+    "scorer_code": 456787.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 234,
+    "match_id": 1821526,
+    "team_code": 819,
+    "scorer_name": "Mauro Arambarri",
+    "scorer_code": 303016.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 235,
+    "match_id": 1821528,
+    "team_code": 54,
+    "scorer_name": "José María Giménez",
+    "scorer_code": 135914.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 236,
+    "match_id": 1821529,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 237,
+    "match_id": 1821529,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 238,
+    "match_id": 1821529,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 239,
+    "match_id": 1821529,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 240,
+    "match_id": 1821529,
+    "team_code": 65,
+    "scorer_name": "Lamine Yamal",
+    "scorer_code": 480249.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 241,
+    "match_id": 1821529,
+    "team_code": 65,
+    "scorer_name": "Lamine Yamal",
+    "scorer_code": 480249.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 242,
+    "match_id": 1821529,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 243,
+    "match_id": 1821529,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 244,
+    "match_id": 1821530,
+    "team_code": 825,
+    "scorer_name": "Diego García",
+    "scorer_code": 448226.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 245,
+    "match_id": 1821530,
+    "team_code": 825,
+    "scorer_name": "Darko Brasanac",
+    "scorer_code": 84880.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 246,
+    "match_id": 1821530,
+    "team_code": 825,
+    "scorer_name": "Sergio González",
+    "scorer_code": 448220.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 247,
+    "match_id": 1821531,
+    "team_code": 838,
+    "scorer_name": "Álex Muñoz",
+    "scorer_code": 140982.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 248,
+    "match_id": 1821532,
+    "team_code": 131,
+    "scorer_name": "Lucas Torró",
+    "scorer_code": 249960.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 249,
+    "match_id": 1821532,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 250,
+    "match_id": 1821533,
+    "team_code": 839,
+    "scorer_name": "Thierno Barry",
+    "scorer_code": 537713.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 251,
+    "match_id": 1821533,
+    "team_code": 58,
+    "scorer_name": "Mamadou Sylla",
+    "scorer_code": 294008.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 252,
+    "match_id": 1821533,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 253,
+    "match_id": 1821534,
+    "team_code": 64,
+    "scorer_name": "Antonio Sivera",
+    "scorer_code": 141044.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 254,
+    "match_id": 1821535,
+    "team_code": 54,
+    "scorer_name": "Pablo Fornals",
+    "scorer_code": 297203.0,
+    "minute": 52.0
+  },
+  {
+    "goal_id": 255,
+    "match_id": 1821535,
+    "team_code": 53,
+    "scorer_name": "Alex Berenguer",
+    "scorer_code": 238899.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 256,
+    "match_id": 1821536,
+    "team_code": 63,
+    "scorer_name": "Giuliano Simeone",
+    "scorer_code": 422918.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 257,
+    "match_id": 1821536,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 258,
+    "match_id": 1821537,
+    "team_code": 62,
+    "scorer_name": "Tasos Douvikas",
+    "scorer_code": 422873.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 259,
+    "match_id": 1821538,
+    "team_code": 2783,
+    "scorer_name": "Miguel Gutiérrez",
+    "scorer_code": 395788.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 260,
+    "match_id": 1821538,
+    "team_code": 825,
+    "scorer_name": "Renato Tapia",
+    "scorer_code": 136987.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 261,
+    "match_id": 1821538,
+    "team_code": 2783,
+    "scorer_name": "Arnau Martínez",
+    "scorer_code": 444239.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 262,
+    "match_id": 1821538,
+    "team_code": 825,
+    "scorer_name": "Juan Cruz",
+    "scorer_code": 357786.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 263,
+    "match_id": 1821538,
+    "team_code": 2783,
+    "scorer_name": "Cristhian Stuani",
+    "scorer_code": 24400.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 264,
+    "match_id": 1821538,
+    "team_code": 2783,
+    "scorer_name": "Sergio González",
+    "scorer_code": 448220.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 265,
+    "match_id": 1821538,
+    "team_code": 825,
+    "scorer_name": "Munir El Haddadi",
+    "scorer_code": 143158.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 266,
+    "match_id": 1821539,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 267,
+    "match_id": 1821540,
+    "team_code": 60,
+    "scorer_name": "Jon Guridi",
+    "scorer_code": 335041.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 268,
+    "match_id": 1821541,
+    "team_code": 64,
+    "scorer_name": "Álvaro García",
+    "scorer_code": 135345.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 269,
+    "match_id": 1821541,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 270,
+    "match_id": 1821542,
+    "team_code": 55,
+    "scorer_name": "Hugo Duro",
+    "scorer_code": 354526.0,
+    "minute": 27.0
+  },
+  {
+    "goal_id": 271,
+    "match_id": 1821542,
+    "team_code": 52,
+    "scorer_name": "Luka Modric",
+    "scorer_code": 20874.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 272,
+    "match_id": 1821542,
+    "team_code": 52,
+    "scorer_name": "Jude Bellingham",
+    "scorer_code": 379868.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 273,
+    "match_id": 1821543,
+    "team_code": 68,
+    "scorer_name": "Takefusa Kubo",
+    "scorer_code": 377285.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 274,
+    "match_id": 1821543,
+    "team_code": 68,
+    "scorer_name": "Mikel Oyarzabal",
+    "scorer_code": 298839.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 275,
+    "match_id": 1821544,
+    "team_code": 62,
+    "scorer_name": "Javi Rodríguez",
+    "scorer_code": 508331.0,
+    "minute": 13.0
+  },
+  {
+    "goal_id": 276,
+    "match_id": 1821544,
+    "team_code": 54,
+    "scorer_name": "Vitor Roque",
+    "scorer_code": 437157.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 277,
+    "match_id": 1821544,
+    "team_code": 62,
+    "scorer_name": "Tasos Douvikas",
+    "scorer_code": 422873.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 278,
+    "match_id": 1821544,
+    "team_code": 54,
+    "scorer_name": "Marc Bartra",
+    "scorer_code": 83686.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 279,
+    "match_id": 1821545,
+    "team_code": 2783,
+    "scorer_name": "Yangel Herrera",
+    "scorer_code": 318505.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 280,
+    "match_id": 1821546,
+    "team_code": 825,
+    "scorer_name": "Miguel de la Fuente",
+    "scorer_code": 362358.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 281,
+    "match_id": 1821547,
+    "team_code": 58,
+    "scorer_name": "Raúl Moro",
+    "scorer_code": 396490.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 282,
+    "match_id": 1821547,
+    "team_code": 53,
+    "scorer_name": "Gorka Guruzeta",
+    "scorer_code": 362602.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 283,
+    "match_id": 1821548,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 284,
+    "match_id": 1821549,
+    "team_code": 68,
+    "scorer_name": "Sheraldo Becker",
+    "scorer_code": 137227.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 285,
+    "match_id": 1821550,
+    "team_code": 52,
+    "scorer_name": "Vinícius Júnior",
+    "scorer_code": 337782.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 286,
+    "match_id": 1821550,
+    "team_code": 52,
+    "scorer_name": "Jude Bellingham",
+    "scorer_code": 379868.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 287,
+    "match_id": 1821550,
+    "team_code": 52,
+    "scorer_name": "Vinícius Júnior",
+    "scorer_code": 337782.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 288,
+    "match_id": 1821550,
+    "team_code": 52,
+    "scorer_name": "Vinícius Júnior",
+    "scorer_code": 337782.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 289,
+    "match_id": 1821551,
+    "team_code": 838,
+    "scorer_name": "Fábio Silva",
+    "scorer_code": 380655.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 290,
+    "match_id": 1821551,
+    "team_code": 838,
+    "scorer_name": "Aridane Hernández",
+    "scorer_code": 93492.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 291,
+    "match_id": 1821551,
+    "team_code": 838,
+    "scorer_name": "Manu Fuster",
+    "scorer_code": 447850.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 292,
+    "match_id": 1821551,
+    "team_code": 64,
+    "scorer_name": "Scott McKenna",
+    "scorer_code": 364624.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 293,
+    "match_id": 1821552,
+    "team_code": 839,
+    "scorer_name": "Ilias Akhomach",
+    "scorer_code": 428500.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 294,
+    "match_id": 1821552,
+    "team_code": 839,
+    "scorer_name": "Dani Parejo",
+    "scorer_code": 28186.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 295,
+    "match_id": 1821552,
+    "team_code": 839,
+    "scorer_name": "Santi Comesaña",
+    "scorer_code": 362735.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 296,
+    "match_id": 1821553,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 297,
+    "match_id": 1821554,
+    "team_code": 819,
+    "scorer_name": "Álvaro Rodríguez",
+    "scorer_code": 460772.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 298,
+    "match_id": 1821554,
+    "team_code": 819,
+    "scorer_name": "Allan Nyom",
+    "scorer_code": 91434.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 299,
+    "match_id": 1821555,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 300,
+    "match_id": 1821555,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 301,
+    "match_id": 1821555,
+    "team_code": 839,
+    "scorer_name": "Álex Baena",
+    "scorer_code": 395242.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 302,
+    "match_id": 1821555,
+    "team_code": 839,
+    "scorer_name": "Gerard Moreno",
+    "scorer_code": 97659.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 303,
+    "match_id": 1821556,
+    "team_code": 51,
+    "scorer_name": "Dani Rodríguez",
+    "scorer_code": 6227.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 304,
+    "match_id": 1821556,
+    "team_code": 51,
+    "scorer_name": "Robert Navarro",
+    "scorer_code": 400237.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 305,
+    "match_id": 1821556,
+    "team_code": 838,
+    "scorer_name": "Dário Essugo",
+    "scorer_code": 411914.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 306,
+    "match_id": 1821556,
+    "team_code": 838,
+    "scorer_name": "Fábio Silva",
+    "scorer_code": 380655.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 307,
+    "match_id": 1821556,
+    "team_code": 51,
+    "scorer_name": "Johan Mojica",
+    "scorer_code": 135098.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 308,
+    "match_id": 1821557,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 309,
+    "match_id": 1821557,
+    "team_code": 52,
+    "scorer_name": "Federico Valverde",
+    "scorer_code": 344644.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 310,
+    "match_id": 1821557,
+    "team_code": 52,
+    "scorer_name": "Jude Bellingham",
+    "scorer_code": 379868.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 311,
+    "match_id": 1821558,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 312,
+    "match_id": 1821558,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 313,
+    "match_id": 1821558,
+    "team_code": 62,
+    "scorer_name": "Alfon González",
+    "scorer_code": 408942.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 314,
+    "match_id": 1821558,
+    "team_code": 62,
+    "scorer_name": "Hugo Álvarez",
+    "scorer_code": 427001.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 315,
+    "match_id": 1821559,
+    "team_code": 55,
+    "scorer_name": "César Tárrega",
+    "scorer_code": 427831.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 316,
+    "match_id": 1821559,
+    "team_code": 54,
+    "scorer_name": "Hugo Duro",
+    "scorer_code": 354526.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 317,
+    "match_id": 1821559,
+    "team_code": 55,
+    "scorer_name": "Hugo Duro",
+    "scorer_code": 354526.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 318,
+    "match_id": 1821559,
+    "team_code": 55,
+    "scorer_name": "Hugo Duro",
+    "scorer_code": 354526.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 319,
+    "match_id": 1821559,
+    "team_code": 55,
+    "scorer_name": "Diego López",
+    "scorer_code": 422656.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 320,
+    "match_id": 1821559,
+    "team_code": 54,
+    "scorer_name": "Chimy Ávila",
+    "scorer_code": 303707.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 321,
+    "match_id": 1821560,
+    "team_code": 67,
+    "scorer_name": "Djibril Sow",
+    "scorer_code": 317630.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 322,
+    "match_id": 1821561,
+    "team_code": 60,
+    "scorer_name": "Jon Guridi",
+    "scorer_code": 335041.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 323,
+    "match_id": 1821561,
+    "team_code": 63,
+    "scorer_name": "Antoine Griezmann",
+    "scorer_code": 80241.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 324,
+    "match_id": 1821561,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 325,
+    "match_id": 1821562,
+    "team_code": 68,
+    "scorer_name": "Brais Méndez",
+    "scorer_code": 344542.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 326,
+    "match_id": 1821562,
+    "team_code": 68,
+    "scorer_name": "Ander Barrenetxea",
+    "scorer_code": 367857.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 327,
+    "match_id": 1821562,
+    "team_code": 68,
+    "scorer_name": "Mikel Oyarzabal",
+    "scorer_code": 298839.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 328,
+    "match_id": 1821563,
+    "team_code": 838,
+    "scorer_name": "Sandro Ramírez",
+    "scorer_code": 135242.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 329,
+    "match_id": 1821563,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 330,
+    "match_id": 1821563,
+    "team_code": 838,
+    "scorer_name": "Fábio Silva",
+    "scorer_code": 380655.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 331,
+    "match_id": 1821564,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 332,
+    "match_id": 1821564,
+    "team_code": 54,
+    "scorer_name": "Giovani Lo Celso",
+    "scorer_code": 303908.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 333,
+    "match_id": 1821564,
+    "team_code": 65,
+    "scorer_name": "Ferran Torres",
+    "scorer_code": 349760.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 334,
+    "match_id": 1821564,
+    "team_code": 54,
+    "scorer_name": "Assane Diao",
+    "scorer_code": 502427.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 335,
+    "match_id": 1821565,
+    "team_code": 64,
+    "scorer_name": "Pathé Ciss",
+    "scorer_code": 422963.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 336,
+    "match_id": 1821566,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 1.0
+  },
+  {
+    "goal_id": 337,
+    "match_id": 1821566,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 338,
+    "match_id": 1821566,
+    "team_code": 131,
+    "scorer_name": "Rubén García",
+    "scorer_code": 119189.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 339,
+    "match_id": 1821566,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 340,
+    "match_id": 1821567,
+    "team_code": 55,
+    "scorer_name": "Luis Rioja",
+    "scorer_code": 381713.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 341,
+    "match_id": 1821567,
+    "team_code": 51,
+    "scorer_name": "Cyle Larin",
+    "scorer_code": 273229.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 342,
+    "match_id": 1821567,
+    "team_code": 51,
+    "scorer_name": "Abdón Prats",
+    "scorer_code": 9270.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 343,
+    "match_id": 1821568,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 344,
+    "match_id": 1821569,
+    "team_code": 825,
+    "scorer_name": "Sergio González",
+    "scorer_code": 448220.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 345,
+    "match_id": 1821570,
+    "team_code": 64,
+    "scorer_name": "Unai López",
+    "scorer_code": 236575.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 346,
+    "match_id": 1821570,
+    "team_code": 64,
+    "scorer_name": "Abdul Mumin",
+    "scorer_code": 400844.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 347,
+    "match_id": 1821570,
+    "team_code": 52,
+    "scorer_name": "Federico Valverde",
+    "scorer_code": 344644.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 348,
+    "match_id": 1821570,
+    "team_code": 52,
+    "scorer_name": "Jude Bellingham",
+    "scorer_code": 379868.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 349,
+    "match_id": 1821570,
+    "team_code": 52,
+    "scorer_name": "Rodrygo",
+    "scorer_code": 347862.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 350,
+    "match_id": 1821570,
+    "team_code": 64,
+    "scorer_name": "Isi Palazón",
+    "scorer_code": 422959.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 351,
+    "match_id": 1821571,
+    "team_code": 825,
+    "scorer_name": "Óscar Rodríguez",
+    "scorer_code": 353783.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 352,
+    "match_id": 1821571,
+    "team_code": 60,
+    "scorer_name": "Carlos Vicente",
+    "scorer_code": 462861.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 353,
+    "match_id": 1821572,
+    "team_code": 53,
+    "scorer_name": "Unai Gómez",
+    "scorer_code": 480619.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 354,
+    "match_id": 1821572,
+    "team_code": 60,
+    "scorer_name": "Joan Jordán",
+    "scorer_code": 238941.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 355,
+    "match_id": 1821573,
+    "team_code": 64,
+    "scorer_name": "Randy Nteka",
+    "scorer_code": 422960.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 356,
+    "match_id": 1821573,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 357,
+    "match_id": 1821573,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 358,
+    "match_id": 1821574,
+    "team_code": 54,
+    "scorer_name": "Vitor Roque",
+    "scorer_code": 437157.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 359,
+    "match_id": 1821574,
+    "team_code": 54,
+    "scorer_name": "Giovani Lo Celso",
+    "scorer_code": 303908.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 360,
+    "match_id": 1821574,
+    "team_code": 839,
+    "scorer_name": "Álex Baena",
+    "scorer_code": 395242.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 361,
+    "match_id": 1821575,
+    "team_code": 63,
+    "scorer_name": "Clément Lenglet",
+    "scorer_code": 236511.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 362,
+    "match_id": 1821575,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 363,
+    "match_id": 1821575,
+    "team_code": 63,
+    "scorer_name": "Rodrigo De Paul",
+    "scorer_code": 125547.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 364,
+    "match_id": 1821575,
+    "team_code": 63,
+    "scorer_name": "Antoine Griezmann",
+    "scorer_code": 80241.0,
+    "minute": 52.0
+  },
+  {
+    "goal_id": 365,
+    "match_id": 1821575,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 366,
+    "match_id": 1821576,
+    "team_code": 67,
+    "scorer_name": "Manu Bueno",
+    "scorer_code": 469547.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 367,
+    "match_id": 1821577,
+    "team_code": 2783,
+    "scorer_name": "Donny van de Beek",
+    "scorer_code": 275035.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 368,
+    "match_id": 1821577,
+    "team_code": 51,
+    "scorer_name": "Cyle Larin",
+    "scorer_code": 273229.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 369,
+    "match_id": 1821577,
+    "team_code": 51,
+    "scorer_name": "Cyle Larin",
+    "scorer_code": 273229.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 370,
+    "match_id": 1821578,
+    "team_code": 58,
+    "scorer_name": "Anuar Tuhami",
+    "scorer_code": 242776.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 371,
+    "match_id": 1821579,
+    "team_code": 68,
+    "scorer_name": "Diego Llorente",
+    "scorer_code": 123232.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 372,
+    "match_id": 1821579,
+    "team_code": 68,
+    "scorer_name": "Mikel Oyarzabal",
+    "scorer_code": 298839.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 373,
+    "match_id": 1821581,
+    "team_code": 52,
+    "scorer_name": "Jude Bellingham",
+    "scorer_code": 379868.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 374,
+    "match_id": 1821581,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 375,
+    "match_id": 1821582,
+    "team_code": 839,
+    "scorer_name": "Thierno Barry",
+    "scorer_code": 537713.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 376,
+    "match_id": 1821582,
+    "team_code": 839,
+    "scorer_name": "Álex Baena",
+    "scorer_code": 395242.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 377,
+    "match_id": 1821582,
+    "team_code": 2783,
+    "scorer_name": "Donny van de Beek",
+    "scorer_code": 275035.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 378,
+    "match_id": 1821582,
+    "team_code": 2783,
+    "scorer_name": "Ladislav Krejcí",
+    "scorer_code": 404245.0,
+    "minute": 96.0
+  },
+  {
+    "goal_id": 379,
+    "match_id": 1821583,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 380,
+    "match_id": 1821583,
+    "team_code": 67,
+    "scorer_name": "Dodi Lukébakio",
+    "scorer_code": 299490.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 381,
+    "match_id": 1821584,
+    "team_code": 53,
+    "scorer_name": "Aitor Paredes",
+    "scorer_code": 402663.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 382,
+    "match_id": 1821584,
+    "team_code": 53,
+    "scorer_name": "Iñaki Williams",
+    "scorer_code": 255182.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 383,
+    "match_id": 1821585,
+    "team_code": 63,
+    "scorer_name": "Rodrigo De Paul",
+    "scorer_code": 125547.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 384,
+    "match_id": 1821585,
+    "team_code": 67,
+    "scorer_name": "Dodi Lukébakio",
+    "scorer_code": 299490.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 385,
+    "match_id": 1821585,
+    "team_code": 67,
+    "scorer_name": "Isaac Romero",
+    "scorer_code": 492362.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 386,
+    "match_id": 1821585,
+    "team_code": 67,
+    "scorer_name": "Juanlu Sánchez",
+    "scorer_code": 395187.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 387,
+    "match_id": 1821585,
+    "team_code": 63,
+    "scorer_name": "Antoine Griezmann",
+    "scorer_code": 80241.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 388,
+    "match_id": 1821585,
+    "team_code": 63,
+    "scorer_name": "Samuel Lino",
+    "scorer_code": 381594.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 389,
+    "match_id": 1821585,
+    "team_code": 63,
+    "scorer_name": "Antoine Griezmann",
+    "scorer_code": 80241.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 390,
+    "match_id": 1821586,
+    "team_code": 62,
+    "scorer_name": "Hugo Álvarez",
+    "scorer_code": 427001.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 391,
+    "match_id": 1821586,
+    "team_code": 62,
+    "scorer_name": "Iago Aspas",
+    "scorer_code": 91242.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 392,
+    "match_id": 1821587,
+    "team_code": 52,
+    "scorer_name": "Jude Bellingham",
+    "scorer_code": 379868.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 393,
+    "match_id": 1821587,
+    "team_code": 52,
+    "scorer_name": "Arda Güler",
+    "scorer_code": 415181.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 394,
+    "match_id": 1821587,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 395,
+    "match_id": 1821588,
+    "team_code": 838,
+    "scorer_name": "Sandro Ramírez",
+    "scorer_code": 135242.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 396,
+    "match_id": 1821588,
+    "team_code": 58,
+    "scorer_name": "Marcos André",
+    "scorer_code": 402185.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 397,
+    "match_id": 1821588,
+    "team_code": 838,
+    "scorer_name": "Sandro Ramírez",
+    "scorer_code": 135242.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 398,
+    "match_id": 1821589,
+    "team_code": 54,
+    "scorer_name": "Isco",
+    "scorer_code": 82989.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 399,
+    "match_id": 1821589,
+    "team_code": 64,
+    "scorer_name": "Isi Palazón",
+    "scorer_code": 422959.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 400,
+    "match_id": 1821590,
+    "team_code": 53,
+    "scorer_name": "Alex Berenguer",
+    "scorer_code": 238899.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 401,
+    "match_id": 1821590,
+    "team_code": 53,
+    "scorer_name": "Alex Berenguer",
+    "scorer_code": 238899.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 402,
+    "match_id": 1821590,
+    "team_code": 52,
+    "scorer_name": "Jude Bellingham",
+    "scorer_code": 379868.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 403,
+    "match_id": 1821590,
+    "team_code": 52,
+    "scorer_name": "Jude Bellingham",
+    "scorer_code": 379868.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 404,
+    "match_id": 1821590,
+    "team_code": 53,
+    "scorer_name": "Gorka Guruzeta",
+    "scorer_code": 362602.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 405,
+    "match_id": 1821590,
+    "team_code": 53,
+    "scorer_name": "Gorka Guruzeta",
+    "scorer_code": 362602.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 406,
+    "match_id": 1821591,
+    "team_code": 62,
+    "scorer_name": "Pablo Durán",
+    "scorer_code": 459082.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 407,
+    "match_id": 1821591,
+    "team_code": 62,
+    "scorer_name": "Pablo Durán",
+    "scorer_code": 459082.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 408,
+    "match_id": 1821592,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 409,
+    "match_id": 1821593,
+    "team_code": 51,
+    "scorer_name": "Cyle Larin",
+    "scorer_code": 273229.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 410,
+    "match_id": 1821594,
+    "team_code": 68,
+    "scorer_name": "Takefusa Kubo",
+    "scorer_code": 377285.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 411,
+    "match_id": 1821595,
+    "team_code": 2783,
+    "scorer_name": "David López",
+    "scorer_code": 92691.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 412,
+    "match_id": 1821595,
+    "team_code": 2783,
+    "scorer_name": "Abel Ruiz",
+    "scorer_code": 372828.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 413,
+    "match_id": 1821595,
+    "team_code": 2783,
+    "scorer_name": "Arnaut Danjuma",
+    "scorer_code": 323625.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 414,
+    "match_id": 1821596,
+    "team_code": 55,
+    "scorer_name": "Luis Rioja",
+    "scorer_code": 381713.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 415,
+    "match_id": 1821596,
+    "team_code": 67,
+    "scorer_name": "Adrià Pedrosa",
+    "scorer_code": 363966.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 416,
+    "match_id": 1821597,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 417,
+    "match_id": 1821597,
+    "team_code": 52,
+    "scorer_name": "Federico Valverde",
+    "scorer_code": 344644.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 418,
+    "match_id": 1821597,
+    "team_code": 52,
+    "scorer_name": "Rodrygo",
+    "scorer_code": 347862.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 419,
+    "match_id": 1821597,
+    "team_code": 67,
+    "scorer_name": "Isaac Romero",
+    "scorer_code": 492362.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 420,
+    "match_id": 1821597,
+    "team_code": 52,
+    "scorer_name": "Brahim Díaz",
+    "scorer_code": 317541.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 421,
+    "match_id": 1821597,
+    "team_code": 67,
+    "scorer_name": "Dodi Lukébakio",
+    "scorer_code": 299490.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 422,
+    "match_id": 1821598,
+    "team_code": 2783,
+    "scorer_name": "Jhon Solís",
+    "scorer_code": 445345.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 423,
+    "match_id": 1821599,
+    "team_code": 825,
+    "scorer_name": "Seydouba Cissé",
+    "scorer_code": 448222.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 424,
+    "match_id": 1821599,
+    "team_code": 839,
+    "scorer_name": "Thierno Barry",
+    "scorer_code": 537713.0,
+    "minute": 16.0
+  },
+  {
+    "goal_id": 425,
+    "match_id": 1821599,
+    "team_code": 825,
+    "scorer_name": "Dani Raba",
+    "scorer_code": 334221.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 426,
+    "match_id": 1821599,
+    "team_code": 839,
+    "scorer_name": "Thierno Barry",
+    "scorer_code": 537713.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 427,
+    "match_id": 1821599,
+    "team_code": 839,
+    "scorer_name": "Thierno Barry",
+    "scorer_code": 537713.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 428,
+    "match_id": 1821599,
+    "team_code": 839,
+    "scorer_name": "Gerard Moreno",
+    "scorer_code": 97659.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 429,
+    "match_id": 1821599,
+    "team_code": 839,
+    "scorer_name": "Pau Cabanes",
+    "scorer_code": 538494.0,
+    "minute": 97.0
+  },
+  {
+    "goal_id": 430,
+    "match_id": 1821600,
+    "team_code": 65,
+    "scorer_name": "Ferran Torres",
+    "scorer_code": 349760.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 431,
+    "match_id": 1821600,
+    "team_code": 65,
+    "scorer_name": "Ferran Torres",
+    "scorer_code": 349760.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 432,
+    "match_id": 1821600,
+    "team_code": 51,
+    "scorer_name": "Vedat Muriqi",
+    "scorer_code": 254352.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 433,
+    "match_id": 1821600,
+    "team_code": 51,
+    "scorer_name": "Vedat Muriqi",
+    "scorer_code": 254352.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 434,
+    "match_id": 1821600,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 435,
+    "match_id": 1821600,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 436,
+    "match_id": 1821600,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 437,
+    "match_id": 1821600,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 438,
+    "match_id": 1821600,
+    "team_code": 65,
+    "scorer_name": "Frenkie de Jong",
+    "scorer_code": 279423.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 439,
+    "match_id": 1821600,
+    "team_code": 65,
+    "scorer_name": "Frenkie de Jong",
+    "scorer_code": 279423.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 440,
+    "match_id": 1821600,
+    "team_code": 65,
+    "scorer_name": "Pau Víctor",
+    "scorer_code": 444243.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 441,
+    "match_id": 1821600,
+    "team_code": 65,
+    "scorer_name": "Pau Víctor",
+    "scorer_code": 444243.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 442,
+    "match_id": 1821601,
+    "team_code": 131,
+    "scorer_name": "Lucas Torró",
+    "scorer_code": 249960.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 443,
+    "match_id": 1821601,
+    "team_code": 53,
+    "scorer_name": "Gorka Guruzeta",
+    "scorer_code": 362602.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 444,
+    "match_id": 1821601,
+    "team_code": 53,
+    "scorer_name": "Alex Berenguer",
+    "scorer_code": 238899.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 445,
+    "match_id": 1821602,
+    "team_code": 58,
+    "scorer_name": "Kike Pérez",
+    "scorer_code": 395579.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 446,
+    "match_id": 1821603,
+    "team_code": 65,
+    "scorer_name": "Pedri",
+    "scorer_code": 402197.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 447,
+    "match_id": 1821603,
+    "team_code": 63,
+    "scorer_name": "Rodrigo De Paul",
+    "scorer_code": 125547.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 448,
+    "match_id": 1821603,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 449,
+    "match_id": 1821604,
+    "team_code": 64,
+    "scorer_name": "Adri Embarba",
+    "scorer_code": 135572.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 450,
+    "match_id": 1821604,
+    "team_code": 62,
+    "scorer_name": "Borja Iglesias",
+    "scorer_code": 259042.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 451,
+    "match_id": 1821604,
+    "team_code": 64,
+    "scorer_name": "Jorge de Frutos",
+    "scorer_code": 386230.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 452,
+    "match_id": 1821605,
+    "team_code": 60,
+    "scorer_name": "Carlos Martín",
+    "scorer_code": 427360.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 453,
+    "match_id": 1821605,
+    "team_code": 55,
+    "scorer_name": "Luis Rioja",
+    "scorer_code": 381713.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 454,
+    "match_id": 1821605,
+    "team_code": 60,
+    "scorer_name": "Joan Jordán",
+    "scorer_code": 238941.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 455,
+    "match_id": 1821605,
+    "team_code": 55,
+    "scorer_name": "Dani Gómez",
+    "scorer_code": 400358.0,
+    "minute": 97.0
+  },
+  {
+    "goal_id": 456,
+    "match_id": 1821606,
+    "team_code": 819,
+    "scorer_name": "Coba da Costa",
+    "scorer_code": 538555.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 457,
+    "match_id": 1821606,
+    "team_code": 819,
+    "scorer_name": "Borja Mayoral",
+    "scorer_code": 278721.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 458,
+    "match_id": 1821606,
+    "team_code": 838,
+    "scorer_name": "Adnan Januzaj",
+    "scorer_code": 130334.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 459,
+    "match_id": 1821607,
+    "team_code": 2783,
+    "scorer_name": "Arnau Martínez",
+    "scorer_code": 444239.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 460,
+    "match_id": 1821607,
+    "team_code": 67,
+    "scorer_name": "Saúl Ñíguez",
+    "scorer_code": 112161.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 461,
+    "match_id": 1821607,
+    "team_code": 67,
+    "scorer_name": "Dodi Lukébakio",
+    "scorer_code": 299490.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 462,
+    "match_id": 1821608,
+    "team_code": 64,
+    "scorer_name": "Sergio Camello",
+    "scorer_code": 372469.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 463,
+    "match_id": 1821608,
+    "team_code": 131,
+    "scorer_name": "Raúl García",
+    "scorer_code": 383924.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 464,
+    "match_id": 1821609,
+    "team_code": 53,
+    "scorer_name": "Alex Berenguer",
+    "scorer_code": 238899.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 465,
+    "match_id": 1821609,
+    "team_code": 53,
+    "scorer_name": "Dani Vivian",
+    "scorer_code": 357839.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 466,
+    "match_id": 1821609,
+    "team_code": 62,
+    "scorer_name": "Hugo Álvarez",
+    "scorer_code": 427001.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 467,
+    "match_id": 1821610,
+    "team_code": 825,
+    "scorer_name": "Matija Nastasic",
+    "scorer_code": 91200.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 468,
+    "match_id": 1821611,
+    "team_code": 65,
+    "scorer_name": "Jules Koundé",
+    "scorer_code": 301019.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 469,
+    "match_id": 1821611,
+    "team_code": 819,
+    "scorer_name": "Mauro Arambarri",
+    "scorer_code": 303016.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 470,
+    "match_id": 1821612,
+    "team_code": 839,
+    "scorer_name": "Logan Costa",
+    "scorer_code": 389130.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 471,
+    "match_id": 1821612,
+    "team_code": 839,
+    "scorer_name": "Álex Baena",
+    "scorer_code": 395242.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 472,
+    "match_id": 1821612,
+    "team_code": 839,
+    "scorer_name": "Dani Parejo",
+    "scorer_code": 28186.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 473,
+    "match_id": 1821612,
+    "team_code": 839,
+    "scorer_name": "Yeremy Pino",
+    "scorer_code": 403865.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 474,
+    "match_id": 1821613,
+    "team_code": 55,
+    "scorer_name": "Hugo Duro",
+    "scorer_code": 354526.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 475,
+    "match_id": 1821614,
+    "team_code": 838,
+    "scorer_name": "Fábio Silva",
+    "scorer_code": 380655.0,
+    "minute": 1.0
+  },
+  {
+    "goal_id": 476,
+    "match_id": 1821614,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 477,
+    "match_id": 1821614,
+    "team_code": 52,
+    "scorer_name": "Brahim Díaz",
+    "scorer_code": 317541.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 478,
+    "match_id": 1821614,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 479,
+    "match_id": 1821614,
+    "team_code": 52,
+    "scorer_name": "Rodrygo",
+    "scorer_code": 347862.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 480,
+    "match_id": 1821615,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 481,
+    "match_id": 1821615,
+    "team_code": 54,
+    "scorer_name": "Jesús Rodriguez",
+    "scorer_code": 539559.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 482,
+    "match_id": 1821615,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 483,
+    "match_id": 1821615,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 484,
+    "match_id": 1821616,
+    "team_code": 839,
+    "scorer_name": "Álex Baena",
+    "scorer_code": 395242.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 485,
+    "match_id": 1821616,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 486,
+    "match_id": 1821616,
+    "team_code": 838,
+    "scorer_name": "Manu Fuster",
+    "scorer_code": 447850.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 487,
+    "match_id": 1821617,
+    "team_code": 819,
+    "scorer_name": "Mauro Arambarri",
+    "scorer_code": 303016.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 488,
+    "match_id": 1821619,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 489,
+    "match_id": 1821619,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 490,
+    "match_id": 1821620,
+    "team_code": 839,
+    "scorer_name": "Gerard Moreno",
+    "scorer_code": 97659.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 491,
+    "match_id": 1821620,
+    "team_code": 63,
+    "scorer_name": "Samuel Lino",
+    "scorer_code": 381594.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 492,
+    "match_id": 1821621,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 493,
+    "match_id": 1821621,
+    "team_code": 67,
+    "scorer_name": "Rubén Vargas",
+    "scorer_code": 381550.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 494,
+    "match_id": 1821621,
+    "team_code": 65,
+    "scorer_name": "Fermín López",
+    "scorer_code": 463838.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 495,
+    "match_id": 1821621,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 496,
+    "match_id": 1821621,
+    "team_code": 65,
+    "scorer_name": "Eric García",
+    "scorer_code": 368091.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 497,
+    "match_id": 1821622,
+    "team_code": 65,
+    "scorer_name": "Frenkie de Jong",
+    "scorer_code": 279423.0,
+    "minute": 3.0
+  },
+  {
+    "goal_id": 498,
+    "match_id": 1821622,
+    "team_code": 65,
+    "scorer_name": "Ferran Torres",
+    "scorer_code": 349760.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 499,
+    "match_id": 1821622,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 500,
+    "match_id": 1821622,
+    "team_code": 65,
+    "scorer_name": "Fermín López",
+    "scorer_code": 463838.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 501,
+    "match_id": 1821622,
+    "team_code": 65,
+    "scorer_name": "Fermín López",
+    "scorer_code": 463838.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 502,
+    "match_id": 1821622,
+    "team_code": 55,
+    "scorer_name": "Hugo Duro",
+    "scorer_code": 354526.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 503,
+    "match_id": 1821622,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 504,
+    "match_id": 1821622,
+    "team_code": 65,
+    "scorer_name": "César Tárrega",
+    "scorer_code": 427831.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 505,
+    "match_id": 1821623,
+    "team_code": 54,
+    "scorer_name": "Antony",
+    "scorer_code": 364315.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 506,
+    "match_id": 1821623,
+    "team_code": 54,
+    "scorer_name": "Diego Llorente",
+    "scorer_code": 123232.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 507,
+    "match_id": 1821623,
+    "team_code": 62,
+    "scorer_name": "Fran Beltrán",
+    "scorer_code": 362421.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 508,
+    "match_id": 1821623,
+    "team_code": 62,
+    "scorer_name": "Javi Rodríguez",
+    "scorer_code": 508331.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 509,
+    "match_id": 1821623,
+    "team_code": 62,
+    "scorer_name": "Williot Swedberg",
+    "scorer_code": 444227.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 510,
+    "match_id": 1821624,
+    "team_code": 131,
+    "scorer_name": "Aimar Oroz",
+    "scorer_code": 395321.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 511,
+    "match_id": 1821624,
+    "team_code": 838,
+    "scorer_name": "Adnan Januzaj",
+    "scorer_code": 130334.0,
+    "minute": 97.0
+  },
+  {
+    "goal_id": 512,
+    "match_id": 1821625,
+    "team_code": 55,
+    "scorer_name": "Cristhian Mosquera",
+    "scorer_code": 425591.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 513,
+    "match_id": 1821625,
+    "team_code": 55,
+    "scorer_name": "Mouctar Diakhaby",
+    "scorer_code": 322095.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 514,
+    "match_id": 1821626,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 515,
+    "match_id": 1821626,
+    "team_code": 62,
+    "scorer_name": "Pablo Durán",
+    "scorer_code": 459082.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 516,
+    "match_id": 1821627,
+    "team_code": 54,
+    "scorer_name": "Cédric Bakambu",
+    "scorer_code": 86513.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 517,
+    "match_id": 1821628,
+    "team_code": 819,
+    "scorer_name": "Christantus Uche",
+    "scorer_code": 531674.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 518,
+    "match_id": 1821628,
+    "team_code": 819,
+    "scorer_name": "Carles Pérez",
+    "scorer_code": 374869.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 519,
+    "match_id": 1821628,
+    "team_code": 819,
+    "scorer_name": "Carles Pérez",
+    "scorer_code": 374869.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 520,
+    "match_id": 1821629,
+    "team_code": 2783,
+    "scorer_name": "Bryan Gil",
+    "scorer_code": 368519.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 521,
+    "match_id": 1821629,
+    "team_code": 64,
+    "scorer_name": "Randy Nteka",
+    "scorer_code": 422960.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 522,
+    "match_id": 1821629,
+    "team_code": 64,
+    "scorer_name": "Randy Nteka",
+    "scorer_code": 422960.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 523,
+    "match_id": 1821630,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 524,
+    "match_id": 1821630,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 525,
+    "match_id": 1821630,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 526,
+    "match_id": 1821631,
+    "team_code": 63,
+    "scorer_name": "Samuel Lino",
+    "scorer_code": 381594.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 527,
+    "match_id": 1821631,
+    "team_code": 63,
+    "scorer_name": "Antoine Griezmann",
+    "scorer_code": 80241.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 528,
+    "match_id": 1821633,
+    "team_code": 2783,
+    "scorer_name": "Abel Ruiz",
+    "scorer_code": 372828.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 529,
+    "match_id": 1821633,
+    "team_code": 2783,
+    "scorer_name": "Yáser Asprilla",
+    "scorer_code": 443540.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 530,
+    "match_id": 1821633,
+    "team_code": 838,
+    "scorer_name": "Fábio Silva",
+    "scorer_code": 380655.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 531,
+    "match_id": 1821634,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 532,
+    "match_id": 1821634,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 533,
+    "match_id": 1821634,
+    "team_code": 68,
+    "scorer_name": "Orri Óskarsson",
+    "scorer_code": 428066.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 534,
+    "match_id": 1821635,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 535,
+    "match_id": 1821635,
+    "team_code": 839,
+    "scorer_name": "Pape Gueye",
+    "scorer_code": 399047.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 536,
+    "match_id": 1821635,
+    "team_code": 839,
+    "scorer_name": "Santi Comesaña",
+    "scorer_code": 362735.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 537,
+    "match_id": 1821635,
+    "team_code": 839,
+    "scorer_name": "Thierno Barry",
+    "scorer_code": 537713.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 538,
+    "match_id": 1821635,
+    "team_code": 839,
+    "scorer_name": "Denis Suárez",
+    "scorer_code": 106525.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 539,
+    "match_id": 1821635,
+    "team_code": 58,
+    "scorer_name": "Selim Amallah",
+    "scorer_code": 384578.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 540,
+    "match_id": 1821636,
+    "team_code": 64,
+    "scorer_name": "Pathé Ciss",
+    "scorer_code": 422963.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 541,
+    "match_id": 1821637,
+    "team_code": 54,
+    "scorer_name": "Isco",
+    "scorer_code": 82989.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 542,
+    "match_id": 1821637,
+    "team_code": 53,
+    "scorer_name": "Aitor Paredes",
+    "scorer_code": 402663.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 543,
+    "match_id": 1821637,
+    "team_code": 54,
+    "scorer_name": "Romain Perraud",
+    "scorer_code": 331466.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 544,
+    "match_id": 1821637,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 545,
+    "match_id": 1821638,
+    "team_code": 55,
+    "scorer_name": "Luis Rioja",
+    "scorer_code": 381713.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 546,
+    "match_id": 1821638,
+    "team_code": 62,
+    "scorer_name": "Pablo Durán",
+    "scorer_code": 459082.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 547,
+    "match_id": 1821638,
+    "team_code": 55,
+    "scorer_name": "Javi Guerra",
+    "scorer_code": 431507.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 548,
+    "match_id": 1821639,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 549,
+    "match_id": 1821640,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 550,
+    "match_id": 1821640,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 551,
+    "match_id": 1821640,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 552,
+    "match_id": 1821641,
+    "team_code": 51,
+    "scorer_name": "Vedat Muriqi",
+    "scorer_code": 254352.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 553,
+    "match_id": 1821641,
+    "team_code": 131,
+    "scorer_name": "Enzo Boyomo",
+    "scorer_code": 447842.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 554,
+    "match_id": 1821642,
+    "team_code": 64,
+    "scorer_name": "Álvaro García",
+    "scorer_code": 135345.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 555,
+    "match_id": 1821643,
+    "team_code": 62,
+    "scorer_name": "Iago Aspas",
+    "scorer_code": 91242.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 556,
+    "match_id": 1821643,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 557,
+    "match_id": 1821644,
+    "team_code": 819,
+    "scorer_name": "Christantus Uche",
+    "scorer_code": 531674.0,
+    "minute": 3.0
+  },
+  {
+    "goal_id": 558,
+    "match_id": 1821644,
+    "team_code": 2783,
+    "scorer_name": "Yangel Herrera",
+    "scorer_code": 318505.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 559,
+    "match_id": 1821644,
+    "team_code": 819,
+    "scorer_name": "Borja Mayoral",
+    "scorer_code": 278721.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 560,
+    "match_id": 1821645,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 561,
+    "match_id": 1821646,
+    "team_code": 67,
+    "scorer_name": "Juanlu Sánchez",
+    "scorer_code": 395187.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 562,
+    "match_id": 1821646,
+    "team_code": 67,
+    "scorer_name": "Isaac Romero",
+    "scorer_code": 492362.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 563,
+    "match_id": 1821646,
+    "team_code": 67,
+    "scorer_name": "Juanlu Sánchez",
+    "scorer_code": 395187.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 564,
+    "match_id": 1821646,
+    "team_code": 67,
+    "scorer_name": "Dodi Lukébakio",
+    "scorer_code": 299490.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 565,
+    "match_id": 1821647,
+    "team_code": 839,
+    "scorer_name": "Pape Gueye",
+    "scorer_code": 399047.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 566,
+    "match_id": 1821647,
+    "team_code": 55,
+    "scorer_name": "Umar Sadiq",
+    "scorer_code": 297546.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 567,
+    "match_id": 1821648,
+    "team_code": 51,
+    "scorer_name": "Vedat Muriqi",
+    "scorer_code": 254352.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 568,
+    "match_id": 1821648,
+    "team_code": 51,
+    "scorer_name": "Vedat Muriqi",
+    "scorer_code": 254352.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 569,
+    "match_id": 1821648,
+    "team_code": 51,
+    "scorer_name": "Dani Rodríguez",
+    "scorer_code": 6227.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 570,
+    "match_id": 1821648,
+    "team_code": 838,
+    "scorer_name": "Stefan Bajcetic",
+    "scorer_code": 444540.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 571,
+    "match_id": 1821649,
+    "team_code": 54,
+    "scorer_name": "Antony",
+    "scorer_code": 364315.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 572,
+    "match_id": 1821649,
+    "team_code": 54,
+    "scorer_name": "Marc Roca",
+    "scorer_code": 323148.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 573,
+    "match_id": 1821649,
+    "team_code": 54,
+    "scorer_name": "Marc Roca",
+    "scorer_code": 323148.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 574,
+    "match_id": 1821650,
+    "team_code": 825,
+    "scorer_name": "Dani Raba",
+    "scorer_code": 334221.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 575,
+    "match_id": 1821650,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 576,
+    "match_id": 1821650,
+    "team_code": 825,
+    "scorer_name": "Dani Raba",
+    "scorer_code": 334221.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 577,
+    "match_id": 1821650,
+    "team_code": 60,
+    "scorer_name": "Joan Jordán",
+    "scorer_code": 238941.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 578,
+    "match_id": 1821650,
+    "team_code": 60,
+    "scorer_name": "Joan Jordán",
+    "scorer_code": 238941.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 579,
+    "match_id": 1821650,
+    "team_code": 825,
+    "scorer_name": "Munir El Haddadi",
+    "scorer_code": 143158.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 580,
+    "match_id": 1821651,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 581,
+    "match_id": 1821651,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 582,
+    "match_id": 1821652,
+    "team_code": 53,
+    "scorer_name": "Mikel Jauregizar",
+    "scorer_code": 511120.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 583,
+    "match_id": 1821652,
+    "team_code": 53,
+    "scorer_name": "Nico Williams",
+    "scorer_code": 408449.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 584,
+    "match_id": 1821652,
+    "team_code": 53,
+    "scorer_name": "Maroan Sannadi",
+    "scorer_code": 541704.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 585,
+    "match_id": 1821652,
+    "team_code": 58,
+    "scorer_name": "Mamadou Sylla",
+    "scorer_code": 294008.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 586,
+    "match_id": 1821652,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 587,
+    "match_id": 1821652,
+    "team_code": 53,
+    "scorer_name": "Nico Williams",
+    "scorer_code": 408449.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 588,
+    "match_id": 1821652,
+    "team_code": 53,
+    "scorer_name": "Gorka Guruzeta",
+    "scorer_code": 362602.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 589,
+    "match_id": 1821652,
+    "team_code": 53,
+    "scorer_name": "Iñaki Williams",
+    "scorer_code": 255182.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 590,
+    "match_id": 1821653,
+    "team_code": 62,
+    "scorer_name": "Iago Aspas",
+    "scorer_code": 91242.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 591,
+    "match_id": 1821654,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 592,
+    "match_id": 1821655,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 593,
+    "match_id": 1821655,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 594,
+    "match_id": 1821655,
+    "team_code": 63,
+    "scorer_name": "Ángel Correa",
+    "scorer_code": 127604.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 595,
+    "match_id": 1821656,
+    "team_code": 65,
+    "scorer_name": "Dani Olmo",
+    "scorer_code": 261212.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 596,
+    "match_id": 1821656,
+    "team_code": 65,
+    "scorer_name": "Ferran Torres",
+    "scorer_code": 349760.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 597,
+    "match_id": 1821657,
+    "team_code": 54,
+    "scorer_name": "Isco",
+    "scorer_code": 82989.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 598,
+    "match_id": 1821657,
+    "team_code": 54,
+    "scorer_name": "Isco",
+    "scorer_code": 82989.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 599,
+    "match_id": 1821657,
+    "team_code": 819,
+    "scorer_name": "Borja Mayoral",
+    "scorer_code": 278721.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 600,
+    "match_id": 1821658,
+    "team_code": 52,
+    "scorer_name": "Luka Modric",
+    "scorer_code": 20874.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 601,
+    "match_id": 1821658,
+    "team_code": 52,
+    "scorer_name": "Vinícius Júnior",
+    "scorer_code": 337782.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 602,
+    "match_id": 1821659,
+    "team_code": 67,
+    "scorer_name": "Kike Salas",
+    "scorer_code": 431509.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 603,
+    "match_id": 1821659,
+    "team_code": 51,
+    "scorer_name": "Martin Valjent",
+    "scorer_code": 142387.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 604,
+    "match_id": 1821660,
+    "team_code": 68,
+    "scorer_name": "Arsen Zakharyan",
+    "scorer_code": 400185.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 605,
+    "match_id": 1821660,
+    "team_code": 68,
+    "scorer_name": "Takefusa Kubo",
+    "scorer_code": 377285.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 606,
+    "match_id": 1821660,
+    "team_code": 68,
+    "scorer_name": "Jon Olasagasti",
+    "scorer_code": 413346.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 607,
+    "match_id": 1821661,
+    "team_code": 65,
+    "scorer_name": "Gerard Martín",
+    "scorer_code": 512879.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 608,
+    "match_id": 1821661,
+    "team_code": 65,
+    "scorer_name": "Marc Casadó",
+    "scorer_code": 454343.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 609,
+    "match_id": 1821661,
+    "team_code": 65,
+    "scorer_name": "Ronald Araujo",
+    "scorer_code": 384711.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 610,
+    "match_id": 1821661,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 611,
+    "match_id": 1821662,
+    "team_code": 52,
+    "scorer_name": "Brahim Díaz",
+    "scorer_code": 317541.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 612,
+    "match_id": 1821662,
+    "team_code": 54,
+    "scorer_name": "Johnny Cardoso",
+    "scorer_code": 379230.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 613,
+    "match_id": 1821662,
+    "team_code": 54,
+    "scorer_name": "Isco",
+    "scorer_code": 82989.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 614,
+    "match_id": 1821663,
+    "team_code": 55,
+    "scorer_name": "Diego López",
+    "scorer_code": 422656.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 615,
+    "match_id": 1821663,
+    "team_code": 131,
+    "scorer_name": "Aimar Oroz",
+    "scorer_code": 395321.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 616,
+    "match_id": 1821663,
+    "team_code": 55,
+    "scorer_name": "Umar Sadiq",
+    "scorer_code": 297546.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 617,
+    "match_id": 1821663,
+    "team_code": 131,
+    "scorer_name": "Aimar Oroz",
+    "scorer_code": 395321.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 618,
+    "match_id": 1821663,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 619,
+    "match_id": 1821663,
+    "team_code": 55,
+    "scorer_name": "Umar Sadiq",
+    "scorer_code": 297546.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 620,
+    "match_id": 1821664,
+    "team_code": 64,
+    "scorer_name": "Andrei Ratiu",
+    "scorer_code": 372331.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 621,
+    "match_id": 1821664,
+    "team_code": 67,
+    "scorer_name": "Dodi Lukébakio",
+    "scorer_code": 299490.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 622,
+    "match_id": 1821665,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 623,
+    "match_id": 1821666,
+    "team_code": 2783,
+    "scorer_name": "Viktor Tsygankov",
+    "scorer_code": 231125.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 624,
+    "match_id": 1821666,
+    "team_code": 62,
+    "scorer_name": "Iker Losada",
+    "scorer_code": 381583.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 625,
+    "match_id": 1821666,
+    "team_code": 62,
+    "scorer_name": "Marcos Alonso",
+    "scorer_code": 84008.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 626,
+    "match_id": 1821666,
+    "team_code": 2783,
+    "scorer_name": "Yangel Herrera",
+    "scorer_code": 318505.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 627,
+    "match_id": 1821667,
+    "team_code": 825,
+    "scorer_name": "Diego García",
+    "scorer_code": 448226.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 628,
+    "match_id": 1821668,
+    "team_code": 838,
+    "scorer_name": "Sandro Ramírez",
+    "scorer_code": 135242.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 629,
+    "match_id": 1821668,
+    "team_code": 58,
+    "scorer_name": "Juanmi Latasa",
+    "scorer_code": 432209.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 630,
+    "match_id": 1821669,
+    "team_code": 51,
+    "scorer_name": "Takuma Asano",
+    "scorer_code": 126316.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 631,
+    "match_id": 1821669,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 632,
+    "match_id": 1821670,
+    "team_code": 62,
+    "scorer_name": "Alfon González",
+    "scorer_code": 408942.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 633,
+    "match_id": 1821670,
+    "team_code": 838,
+    "scorer_name": "Alberto Moleiro",
+    "scorer_code": 448211.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 634,
+    "match_id": 1821671,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 635,
+    "match_id": 1821671,
+    "team_code": 819,
+    "scorer_name": "Carles Pérez",
+    "scorer_code": 374869.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 636,
+    "match_id": 1821671,
+    "team_code": 839,
+    "scorer_name": "Thierno Barry",
+    "scorer_code": 537713.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 637,
+    "match_id": 1821672,
+    "team_code": 68,
+    "scorer_name": "Mikel Oyarzabal",
+    "scorer_code": 298839.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 638,
+    "match_id": 1821672,
+    "team_code": 68,
+    "scorer_name": "Sergio Gómez",
+    "scorer_code": 355110.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 639,
+    "match_id": 1821672,
+    "team_code": 58,
+    "scorer_name": "Juanmi Latasa",
+    "scorer_code": 432209.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 640,
+    "match_id": 1821673,
+    "team_code": 64,
+    "scorer_name": "Pathé Ciss",
+    "scorer_code": 422963.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 641,
+    "match_id": 1821673,
+    "team_code": 64,
+    "scorer_name": "Pedro Díaz",
+    "scorer_code": 448514.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 642,
+    "match_id": 1821674,
+    "team_code": 55,
+    "scorer_name": "Diego López",
+    "scorer_code": 422656.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 643,
+    "match_id": 1821675,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 644,
+    "match_id": 1821675,
+    "team_code": 825,
+    "scorer_name": "Diego García",
+    "scorer_code": 448226.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 645,
+    "match_id": 1821675,
+    "team_code": 825,
+    "scorer_name": "Dani Raba",
+    "scorer_code": 334221.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 646,
+    "match_id": 1821675,
+    "team_code": 52,
+    "scorer_name": "Jude Bellingham",
+    "scorer_code": 379868.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 647,
+    "match_id": 1821675,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 648,
+    "match_id": 1821676,
+    "team_code": 65,
+    "scorer_name": "Gavi",
+    "scorer_code": 422937.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 649,
+    "match_id": 1821676,
+    "team_code": 54,
+    "scorer_name": "Natan",
+    "scorer_code": 402206.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 650,
+    "match_id": 1821677,
+    "team_code": 55,
+    "scorer_name": "Mouctar Diakhaby",
+    "scorer_code": 322095.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 651,
+    "match_id": 1821677,
+    "team_code": 52,
+    "scorer_name": "Vinícius Júnior",
+    "scorer_code": 337782.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 652,
+    "match_id": 1821677,
+    "team_code": 55,
+    "scorer_name": "Hugo Duro",
+    "scorer_code": 354526.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 653,
+    "match_id": 1821678,
+    "team_code": 68,
+    "scorer_name": "Mikel Oyarzabal",
+    "scorer_code": 298839.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 654,
+    "match_id": 1821678,
+    "team_code": 68,
+    "scorer_name": "Sergio Gómez",
+    "scorer_code": 355110.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 655,
+    "match_id": 1821678,
+    "team_code": 838,
+    "scorer_name": "Oliver McBurnie",
+    "scorer_code": 138695.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 656,
+    "match_id": 1821678,
+    "team_code": 68,
+    "scorer_name": "Jon Aramburu",
+    "scorer_code": 463961.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 657,
+    "match_id": 1821679,
+    "team_code": 131,
+    "scorer_name": "Jorge Herrando",
+    "scorer_code": 444253.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 658,
+    "match_id": 1821679,
+    "team_code": 825,
+    "scorer_name": "Dani Raba",
+    "scorer_code": 334221.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 659,
+    "match_id": 1821681,
+    "team_code": 67,
+    "scorer_name": "Lucien Agoumé",
+    "scorer_code": 388505.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 660,
+    "match_id": 1821681,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 661,
+    "match_id": 1821681,
+    "team_code": 63,
+    "scorer_name": "Pablo Barrios",
+    "scorer_code": 434138.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 662,
+    "match_id": 1821682,
+    "team_code": 51,
+    "scorer_name": "Martin Valjent",
+    "scorer_code": 142387.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 663,
+    "match_id": 1821682,
+    "team_code": 62,
+    "scorer_name": "Alfon González",
+    "scorer_code": 408942.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 664,
+    "match_id": 1821682,
+    "team_code": 62,
+    "scorer_name": "Fernando López",
+    "scorer_code": 544982.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 665,
+    "match_id": 1821683,
+    "team_code": 819,
+    "scorer_name": "Mauro Arambarri",
+    "scorer_code": 303016.0,
+    "minute": 1.0
+  },
+  {
+    "goal_id": 666,
+    "match_id": 1821683,
+    "team_code": 819,
+    "scorer_name": "Ramon Terrats",
+    "scorer_code": 444244.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 667,
+    "match_id": 1821683,
+    "team_code": 819,
+    "scorer_name": "Ramon Terrats",
+    "scorer_code": 444244.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 668,
+    "match_id": 1821683,
+    "team_code": 819,
+    "scorer_name": "Domingos Duarte",
+    "scorer_code": 322772.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 669,
+    "match_id": 1821684,
+    "team_code": 60,
+    "scorer_name": "Carlos Vicente",
+    "scorer_code": 462861.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 670,
+    "match_id": 1821685,
+    "team_code": 64,
+    "scorer_name": "Pathé Ciss",
+    "scorer_code": 422963.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 671,
+    "match_id": 1821685,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 672,
+    "match_id": 1821685,
+    "team_code": 53,
+    "scorer_name": "Nico Williams",
+    "scorer_code": 408449.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 673,
+    "match_id": 1821685,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 674,
+    "match_id": 1821686,
+    "team_code": 58,
+    "scorer_name": "Mamadou Sylla",
+    "scorer_code": 294008.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 675,
+    "match_id": 1821686,
+    "team_code": 58,
+    "scorer_name": "Mamadou Sylla",
+    "scorer_code": 294008.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 676,
+    "match_id": 1821686,
+    "team_code": 58,
+    "scorer_name": "Mamadou Sylla",
+    "scorer_code": 294008.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 677,
+    "match_id": 1821686,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 678,
+    "match_id": 1821686,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 679,
+    "match_id": 1821686,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 680,
+    "match_id": 1821686,
+    "team_code": 63,
+    "scorer_name": "Giuliano Simeone",
+    "scorer_code": 422918.0,
+    "minute": 27.0
+  },
+  {
+    "goal_id": 681,
+    "match_id": 1821686,
+    "team_code": 63,
+    "scorer_name": "Giuliano Simeone",
+    "scorer_code": 422918.0,
+    "minute": 27.0
+  },
+  {
+    "goal_id": 682,
+    "match_id": 1821686,
+    "team_code": 63,
+    "scorer_name": "Giuliano Simeone",
+    "scorer_code": 422918.0,
+    "minute": 27.0
+  },
+  {
+    "goal_id": 683,
+    "match_id": 1821686,
+    "team_code": 58,
+    "scorer_name": "Javi Sánchez",
+    "scorer_code": 362276.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 684,
+    "match_id": 1821686,
+    "team_code": 58,
+    "scorer_name": "Javi Sánchez",
+    "scorer_code": 362276.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 685,
+    "match_id": 1821686,
+    "team_code": 58,
+    "scorer_name": "Javi Sánchez",
+    "scorer_code": 362276.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 686,
+    "match_id": 1821686,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 687,
+    "match_id": 1821686,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 688,
+    "match_id": 1821686,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 689,
+    "match_id": 1821686,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 690,
+    "match_id": 1821686,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 691,
+    "match_id": 1821686,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 692,
+    "match_id": 1821687,
+    "team_code": 54,
+    "scorer_name": "Aitor Ruibal",
+    "scorer_code": 349494.0,
+    "minute": 3.0
+  },
+  {
+    "goal_id": 693,
+    "match_id": 1821687,
+    "team_code": 839,
+    "scorer_name": "Thierno Barry",
+    "scorer_code": 537713.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 694,
+    "match_id": 1821687,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 695,
+    "match_id": 1821688,
+    "team_code": 819,
+    "scorer_name": "Omar Alderete",
+    "scorer_code": 344639.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 696,
+    "match_id": 1821688,
+    "team_code": 838,
+    "scorer_name": "Fábio Silva",
+    "scorer_code": 380655.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 697,
+    "match_id": 1821688,
+    "team_code": 838,
+    "scorer_name": "Oliver McBurnie",
+    "scorer_code": 138695.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 698,
+    "match_id": 1821688,
+    "team_code": 838,
+    "scorer_name": "Fábio Silva",
+    "scorer_code": 380655.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 699,
+    "match_id": 1821689,
+    "team_code": 52,
+    "scorer_name": "Eduardo Camavinga",
+    "scorer_code": 369109.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 700,
+    "match_id": 1821690,
+    "team_code": 65,
+    "scorer_name": "Jorge Sáenz",
+    "scorer_code": 381584.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 701,
+    "match_id": 1821691,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 702,
+    "match_id": 1821691,
+    "team_code": 131,
+    "scorer_name": "Pablo Ibáñez",
+    "scorer_code": 444254.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 703,
+    "match_id": 1821691,
+    "team_code": 2783,
+    "scorer_name": "Yáser Asprilla",
+    "scorer_code": 443540.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 704,
+    "match_id": 1821692,
+    "team_code": 51,
+    "scorer_name": "Cyle Larin",
+    "scorer_code": 273229.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 705,
+    "match_id": 1821692,
+    "team_code": 51,
+    "scorer_name": "Sergi Darder",
+    "scorer_code": 106596.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 706,
+    "match_id": 1821693,
+    "team_code": 55,
+    "scorer_name": "Javi Guerra",
+    "scorer_code": 431507.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 707,
+    "match_id": 1821694,
+    "team_code": 51,
+    "scorer_name": "Antonio Raíllo",
+    "scorer_code": 294006.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 708,
+    "match_id": 1821694,
+    "team_code": 53,
+    "scorer_name": "Nico Williams",
+    "scorer_code": 408449.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 709,
+    "match_id": 1821695,
+    "team_code": 65,
+    "scorer_name": "Ferran Torres",
+    "scorer_code": 349760.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 710,
+    "match_id": 1821695,
+    "team_code": 65,
+    "scorer_name": "Dani Olmo",
+    "scorer_code": 261212.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 711,
+    "match_id": 1821695,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 712,
+    "match_id": 1821696,
+    "team_code": 54,
+    "scorer_name": "Diego Llorente",
+    "scorer_code": 123232.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 713,
+    "match_id": 1821697,
+    "team_code": 825,
+    "scorer_name": "Valentin Rosier",
+    "scorer_code": 319388.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 714,
+    "match_id": 1821697,
+    "team_code": 62,
+    "scorer_name": "Óscar Mingueza",
+    "scorer_code": 397469.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 715,
+    "match_id": 1821697,
+    "team_code": 62,
+    "scorer_name": "Alfon González",
+    "scorer_code": 408942.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 716,
+    "match_id": 1821698,
+    "team_code": 67,
+    "scorer_name": "Chidera Ejuke",
+    "scorer_code": 337022.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 717,
+    "match_id": 1821699,
+    "team_code": 55,
+    "scorer_name": "Diego López",
+    "scorer_code": 422656.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 718,
+    "match_id": 1821699,
+    "team_code": 58,
+    "scorer_name": "Juanmi Latasa",
+    "scorer_code": 432209.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 719,
+    "match_id": 1821699,
+    "team_code": 55,
+    "scorer_name": "Umar Sadiq",
+    "scorer_code": 297546.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 720,
+    "match_id": 1821700,
+    "team_code": 60,
+    "scorer_name": "Manu Sánchez",
+    "scorer_code": 374813.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 721,
+    "match_id": 1821701,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 722,
+    "match_id": 1821701,
+    "team_code": 819,
+    "scorer_name": "Mauro Arambarri",
+    "scorer_code": 303016.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 723,
+    "match_id": 1821701,
+    "team_code": 819,
+    "scorer_name": "Mauro Arambarri",
+    "scorer_code": 303016.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 724,
+    "match_id": 1821702,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 725,
+    "match_id": 1821702,
+    "team_code": 52,
+    "scorer_name": "Vinícius Júnior",
+    "scorer_code": 337782.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 726,
+    "match_id": 1821702,
+    "team_code": 64,
+    "scorer_name": "Pedro Díaz",
+    "scorer_code": 448514.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 727,
+    "match_id": 1821703,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 728,
+    "match_id": 1821703,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 729,
+    "match_id": 1821703,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 730,
+    "match_id": 1821703,
+    "team_code": 65,
+    "scorer_name": "Ferran Torres",
+    "scorer_code": 349760.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 731,
+    "match_id": 1821703,
+    "team_code": 65,
+    "scorer_name": "Lamine Yamal",
+    "scorer_code": 480249.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 732,
+    "match_id": 1821703,
+    "team_code": 65,
+    "scorer_name": "Ferran Torres",
+    "scorer_code": 349760.0,
+    "minute": 97.0
+  },
+  {
+    "goal_id": 733,
+    "match_id": 1821704,
+    "team_code": 55,
+    "scorer_name": "Diego López",
+    "scorer_code": 422656.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 734,
+    "match_id": 1821704,
+    "team_code": 2783,
+    "scorer_name": "Cristhian Stuani",
+    "scorer_code": 24400.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 735,
+    "match_id": 1821705,
+    "team_code": 68,
+    "scorer_name": "Martín Zubimendi",
+    "scorer_code": 372424.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 736,
+    "match_id": 1821705,
+    "team_code": 64,
+    "scorer_name": "Óscar Trejo",
+    "scorer_code": 16942.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 737,
+    "match_id": 1821705,
+    "team_code": 64,
+    "scorer_name": "Pedro Díaz",
+    "scorer_code": 448514.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 738,
+    "match_id": 1821705,
+    "team_code": 68,
+    "scorer_name": "Arkaitz Mariezkurrena",
+    "scorer_code": 546575.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 739,
+    "match_id": 1821706,
+    "team_code": 53,
+    "scorer_name": "Yeray Álvarez",
+    "scorer_code": 279839.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 740,
+    "match_id": 1821707,
+    "team_code": 825,
+    "scorer_name": "Dani Raba",
+    "scorer_code": 334221.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 741,
+    "match_id": 1821707,
+    "team_code": 825,
+    "scorer_name": "Dani Raba",
+    "scorer_code": 334221.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 742,
+    "match_id": 1821707,
+    "team_code": 54,
+    "scorer_name": "Isco",
+    "scorer_code": 82989.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 743,
+    "match_id": 1821707,
+    "team_code": 54,
+    "scorer_name": "Cédric Bakambu",
+    "scorer_code": 86513.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 744,
+    "match_id": 1821707,
+    "team_code": 54,
+    "scorer_name": "Cucho Hernández",
+    "scorer_code": 362501.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 745,
+    "match_id": 1821708,
+    "team_code": 62,
+    "scorer_name": "Marcos Alonso",
+    "scorer_code": 84008.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 746,
+    "match_id": 1821709,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 747,
+    "match_id": 1821709,
+    "team_code": 819,
+    "scorer_name": "Ramon Terrats",
+    "scorer_code": 444244.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 748,
+    "match_id": 1821709,
+    "team_code": 819,
+    "scorer_name": "Ramon Terrats",
+    "scorer_code": 444244.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 749,
+    "match_id": 1821710,
+    "team_code": 839,
+    "scorer_name": "Juan Foyth",
+    "scorer_code": 335107.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 750,
+    "match_id": 1821710,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 751,
+    "match_id": 1821710,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 752,
+    "match_id": 1821711,
+    "team_code": 60,
+    "scorer_name": "Toni Martínez",
+    "scorer_code": 280060.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 753,
+    "match_id": 1821711,
+    "team_code": 60,
+    "scorer_name": "Jon Guridi",
+    "scorer_code": 335041.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 754,
+    "match_id": 1821711,
+    "team_code": 838,
+    "scorer_name": "Fábio Silva",
+    "scorer_code": 380655.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 755,
+    "match_id": 1821711,
+    "team_code": 838,
+    "scorer_name": "Alberto Moleiro",
+    "scorer_code": 448211.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 756,
+    "match_id": 1821713,
+    "team_code": 65,
+    "scorer_name": "Ladislav Krejcí",
+    "scorer_code": 404245.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 757,
+    "match_id": 1821713,
+    "team_code": 2783,
+    "scorer_name": "Arnaut Danjuma",
+    "scorer_code": 323625.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 758,
+    "match_id": 1821713,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 759,
+    "match_id": 1821713,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 760,
+    "match_id": 1821713,
+    "team_code": 65,
+    "scorer_name": "Ferran Torres",
+    "scorer_code": 349760.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 761,
+    "match_id": 1821714,
+    "team_code": 67,
+    "scorer_name": "Rubén Vargas",
+    "scorer_code": 381550.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 762,
+    "match_id": 1821714,
+    "team_code": 54,
+    "scorer_name": "Johnny Cardoso",
+    "scorer_code": 379230.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 763,
+    "match_id": 1821714,
+    "team_code": 54,
+    "scorer_name": "Cucho Hernández",
+    "scorer_code": 362501.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 764,
+    "match_id": 1821715,
+    "team_code": 65,
+    "scorer_name": "Ferran Torres",
+    "scorer_code": 349760.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 765,
+    "match_id": 1821715,
+    "team_code": 62,
+    "scorer_name": "Borja Iglesias",
+    "scorer_code": 259042.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 766,
+    "match_id": 1821715,
+    "team_code": 62,
+    "scorer_name": "Borja Iglesias",
+    "scorer_code": 259042.0,
+    "minute": 52.0
+  },
+  {
+    "goal_id": 767,
+    "match_id": 1821715,
+    "team_code": 62,
+    "scorer_name": "Borja Iglesias",
+    "scorer_code": 259042.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 768,
+    "match_id": 1821715,
+    "team_code": 65,
+    "scorer_name": "Dani Olmo",
+    "scorer_code": 261212.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 769,
+    "match_id": 1821715,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 770,
+    "match_id": 1821715,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 97.0
+  },
+  {
+    "goal_id": 771,
+    "match_id": 1821716,
+    "team_code": 825,
+    "scorer_name": "Munir El Haddadi",
+    "scorer_code": 143158.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 772,
+    "match_id": 1821716,
+    "team_code": 67,
+    "scorer_name": "Kike Salas",
+    "scorer_code": 431509.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 773,
+    "match_id": 1821716,
+    "team_code": 67,
+    "scorer_name": "Isaac Romero",
+    "scorer_code": 492362.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 774,
+    "match_id": 1821716,
+    "team_code": 825,
+    "scorer_name": "Javi Hernández",
+    "scorer_code": 395304.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 775,
+    "match_id": 1821717,
+    "team_code": 64,
+    "scorer_name": "César Tárrega",
+    "scorer_code": 427831.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 776,
+    "match_id": 1821717,
+    "team_code": 55,
+    "scorer_name": "Umar Sadiq",
+    "scorer_code": 297546.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 777,
+    "match_id": 1821718,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 778,
+    "match_id": 1821718,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 779,
+    "match_id": 1821718,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 780,
+    "match_id": 1821718,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 781,
+    "match_id": 1821719,
+    "team_code": 52,
+    "scorer_name": "Federico Valverde",
+    "scorer_code": 344644.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 782,
+    "match_id": 1821720,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 783,
+    "match_id": 1821720,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 784,
+    "match_id": 1821720,
+    "team_code": 65,
+    "scorer_name": "Eric García",
+    "scorer_code": 368091.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 785,
+    "match_id": 1821720,
+    "team_code": 65,
+    "scorer_name": "Lamine Yamal",
+    "scorer_code": 480249.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 786,
+    "match_id": 1821720,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 787,
+    "match_id": 1821720,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 788,
+    "match_id": 1821720,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 789,
+    "match_id": 1821721,
+    "team_code": 54,
+    "scorer_name": "Cucho Hernández",
+    "scorer_code": 362501.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 790,
+    "match_id": 1821721,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 791,
+    "match_id": 1821722,
+    "team_code": 838,
+    "scorer_name": "Javi Muñoz",
+    "scorer_code": 276819.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 792,
+    "match_id": 1821723,
+    "team_code": 62,
+    "scorer_name": "Ilaix Moriba",
+    "scorer_code": 409030.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 793,
+    "match_id": 1821723,
+    "team_code": 67,
+    "scorer_name": "Nemanja Gudelj",
+    "scorer_code": 77417.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 794,
+    "match_id": 1821723,
+    "team_code": 62,
+    "scorer_name": "Óscar Mingueza",
+    "scorer_code": 397469.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 795,
+    "match_id": 1821723,
+    "team_code": 62,
+    "scorer_name": "Borja Iglesias",
+    "scorer_code": 259042.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 796,
+    "match_id": 1821723,
+    "team_code": 67,
+    "scorer_name": "Kike Salas",
+    "scorer_code": 431509.0,
+    "minute": 97.0
+  },
+  {
+    "goal_id": 797,
+    "match_id": 1821724,
+    "team_code": 54,
+    "scorer_name": "Johnny Cardoso",
+    "scorer_code": 379230.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 798,
+    "match_id": 1821724,
+    "team_code": 54,
+    "scorer_name": "Antony",
+    "scorer_code": 364315.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 799,
+    "match_id": 1821724,
+    "team_code": 54,
+    "scorer_name": "Isco",
+    "scorer_code": 82989.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 800,
+    "match_id": 1821724,
+    "team_code": 2783,
+    "scorer_name": "Cristhian Stuani",
+    "scorer_code": 24400.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 801,
+    "match_id": 1821725,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 802,
+    "match_id": 1821725,
+    "team_code": 131,
+    "scorer_name": "Rubén García",
+    "scorer_code": 119189.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 803,
+    "match_id": 1821725,
+    "team_code": 58,
+    "scorer_name": "Raúl Moro",
+    "scorer_code": 396490.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 804,
+    "match_id": 1821725,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 805,
+    "match_id": 1821725,
+    "team_code": 58,
+    "scorer_name": "Mamadou Sylla",
+    "scorer_code": 294008.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 806,
+    "match_id": 1821726,
+    "team_code": 839,
+    "scorer_name": "Etta Eyong",
+    "scorer_code": 445095.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 807,
+    "match_id": 1821727,
+    "team_code": 839,
+    "scorer_name": "Yeremy Pino",
+    "scorer_code": 403865.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 808,
+    "match_id": 1821727,
+    "team_code": 68,
+    "scorer_name": "Mikel Oyarzabal",
+    "scorer_code": 298839.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 809,
+    "match_id": 1821727,
+    "team_code": 68,
+    "scorer_name": "Mikel Oyarzabal",
+    "scorer_code": 298839.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 810,
+    "match_id": 1821727,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 811,
+    "match_id": 1821728,
+    "team_code": 67,
+    "scorer_name": "Peque Fernández",
+    "scorer_code": 464952.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 812,
+    "match_id": 1821728,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 813,
+    "match_id": 1821729,
+    "team_code": 58,
+    "scorer_name": "Chuki",
+    "scorer_code": 506115.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 814,
+    "match_id": 1821729,
+    "team_code": 51,
+    "scorer_name": "Omar Mascarell",
+    "scorer_code": 115996.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 815,
+    "match_id": 1821729,
+    "team_code": 51,
+    "scorer_name": "Sergi Darder",
+    "scorer_code": 106596.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 816,
+    "match_id": 1821731,
+    "team_code": 64,
+    "scorer_name": "Álvaro García",
+    "scorer_code": 135345.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 817,
+    "match_id": 1821732,
+    "team_code": 53,
+    "scorer_name": "Iñaki Williams",
+    "scorer_code": 255182.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 818,
+    "match_id": 1821733,
+    "team_code": 55,
+    "scorer_name": "Pepelu",
+    "scorer_code": 302889.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 819,
+    "match_id": 1821733,
+    "team_code": 55,
+    "scorer_name": "Diego López",
+    "scorer_code": 422656.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 820,
+    "match_id": 1821733,
+    "team_code": 55,
+    "scorer_name": "Hugo Duro",
+    "scorer_code": 354526.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 821,
+    "match_id": 1821734,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 3.0
+  },
+  {
+    "goal_id": 822,
+    "match_id": 1821734,
+    "team_code": 63,
+    "scorer_name": "Conor Gallagher",
+    "scorer_code": 375621.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 823,
+    "match_id": 1821734,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 824,
+    "match_id": 1821735,
+    "team_code": 53,
+    "scorer_name": "Manu Sánchez",
+    "scorer_code": 374813.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 825,
+    "match_id": 1821736,
+    "team_code": 65,
+    "scorer_name": "Dani Olmo",
+    "scorer_code": 261212.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 826,
+    "match_id": 1821737,
+    "team_code": 54,
+    "scorer_name": "Jesús Rodriguez",
+    "scorer_code": 539559.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 827,
+    "match_id": 1821737,
+    "team_code": 58,
+    "scorer_name": "Chuki",
+    "scorer_code": 506115.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 828,
+    "match_id": 1821737,
+    "team_code": 54,
+    "scorer_name": "Cucho Hernández",
+    "scorer_code": 362501.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 829,
+    "match_id": 1821737,
+    "team_code": 54,
+    "scorer_name": "Isco",
+    "scorer_code": 82989.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 830,
+    "match_id": 1821737,
+    "team_code": 54,
+    "scorer_name": "Romain Perraud",
+    "scorer_code": 331466.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 831,
+    "match_id": 1821737,
+    "team_code": 54,
+    "scorer_name": "Abde Ezzalzouli",
+    "scorer_code": 427283.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 832,
+    "match_id": 1821738,
+    "team_code": 62,
+    "scorer_name": "Fernando López",
+    "scorer_code": 544982.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 833,
+    "match_id": 1821738,
+    "team_code": 62,
+    "scorer_name": "Borja Iglesias",
+    "scorer_code": 259042.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 834,
+    "match_id": 1821738,
+    "team_code": 62,
+    "scorer_name": "Iago Aspas",
+    "scorer_code": 91242.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 835,
+    "match_id": 1821739,
+    "team_code": 52,
+    "scorer_name": "Arda Güler",
+    "scorer_code": 415181.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 836,
+    "match_id": 1821740,
+    "team_code": 131,
+    "scorer_name": "Rubén García",
+    "scorer_code": 119189.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 837,
+    "match_id": 1821741,
+    "team_code": 60,
+    "scorer_name": "Nahuel Tenaglia",
+    "scorer_code": 347874.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 838,
+    "match_id": 1821742,
+    "team_code": 2783,
+    "scorer_name": "Cristhian Stuani",
+    "scorer_code": 24400.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 839,
+    "match_id": 1821742,
+    "team_code": 825,
+    "scorer_name": "Munir El Haddadi",
+    "scorer_code": 143158.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 840,
+    "match_id": 1821743,
+    "team_code": 2783,
+    "scorer_name": "Cristhian Stuani",
+    "scorer_code": 24400.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 841,
+    "match_id": 1821744,
+    "team_code": 55,
+    "scorer_name": "Hugo Duro",
+    "scorer_code": 354526.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 842,
+    "match_id": 1821744,
+    "team_code": 838,
+    "scorer_name": "Sandro Ramírez",
+    "scorer_code": 135242.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 843,
+    "match_id": 1821744,
+    "team_code": 55,
+    "scorer_name": "Hugo Duro",
+    "scorer_code": 354526.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 844,
+    "match_id": 1821744,
+    "team_code": 55,
+    "scorer_name": "Álex Suárez",
+    "scorer_code": 448204.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 845,
+    "match_id": 1821744,
+    "team_code": 838,
+    "scorer_name": "Oliver McBurnie",
+    "scorer_code": 138695.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 846,
+    "match_id": 1821747,
+    "team_code": 58,
+    "scorer_name": "Iván Sánchez",
+    "scorer_code": 278722.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 847,
+    "match_id": 1821747,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 848,
+    "match_id": 1821747,
+    "team_code": 65,
+    "scorer_name": "Fermín López",
+    "scorer_code": 463838.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 849,
+    "match_id": 1821748,
+    "team_code": 52,
+    "scorer_name": "Arda Güler",
+    "scorer_code": 415181.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 850,
+    "match_id": 1821748,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 851,
+    "match_id": 1821748,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 852,
+    "match_id": 1821748,
+    "team_code": 62,
+    "scorer_name": "Javi Rodríguez",
+    "scorer_code": 508331.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 853,
+    "match_id": 1821748,
+    "team_code": 62,
+    "scorer_name": "Williot Swedberg",
+    "scorer_code": 444227.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 854,
+    "match_id": 1821749,
+    "team_code": 64,
+    "scorer_name": "Florian Lejeune",
+    "scorer_code": 80758.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 855,
+    "match_id": 1821750,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 856,
+    "match_id": 1821750,
+    "team_code": 839,
+    "scorer_name": "Thierno Barry",
+    "scorer_code": 537713.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 857,
+    "match_id": 1821750,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 858,
+    "match_id": 1821750,
+    "team_code": 131,
+    "scorer_name": "Rubén García",
+    "scorer_code": 119189.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 859,
+    "match_id": 1821750,
+    "team_code": 839,
+    "scorer_name": "Nicolas Pépé",
+    "scorer_code": 239872.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 860,
+    "match_id": 1821750,
+    "team_code": 131,
+    "scorer_name": "Aimar Oroz",
+    "scorer_code": 395321.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 861,
+    "match_id": 1821751,
+    "team_code": 60,
+    "scorer_name": "Joan Jordán",
+    "scorer_code": 238941.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 862,
+    "match_id": 1821752,
+    "team_code": 53,
+    "scorer_name": "Gorka Guruzeta",
+    "scorer_code": 362602.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 863,
+    "match_id": 1821752,
+    "team_code": 53,
+    "scorer_name": "Dani Vivian",
+    "scorer_code": 357839.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 864,
+    "match_id": 1821753,
+    "team_code": 131,
+    "scorer_name": "Alejandro Catena",
+    "scorer_code": 374638.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 865,
+    "match_id": 1821753,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 866,
+    "match_id": 1821754,
+    "team_code": 64,
+    "scorer_name": "Jorge de Frutos",
+    "scorer_code": 386230.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 867,
+    "match_id": 1821754,
+    "team_code": 54,
+    "scorer_name": "Cucho Hernández",
+    "scorer_code": 362501.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 868,
+    "match_id": 1821754,
+    "team_code": 64,
+    "scorer_name": "Florian Lejeune",
+    "scorer_code": 80758.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 869,
+    "match_id": 1821754,
+    "team_code": 54,
+    "scorer_name": "Isco",
+    "scorer_code": 82989.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 870,
+    "match_id": 1821755,
+    "team_code": 62,
+    "scorer_name": "Alfon González",
+    "scorer_code": 408942.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 871,
+    "match_id": 1821756,
+    "team_code": 2783,
+    "scorer_name": "Cristhian Stuani",
+    "scorer_code": 24400.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 872,
+    "match_id": 1821757,
+    "team_code": 51,
+    "scorer_name": "Martin Valjent",
+    "scorer_code": 142387.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 873,
+    "match_id": 1821757,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 874,
+    "match_id": 1821757,
+    "team_code": 52,
+    "scorer_name": "Jacobo Ramón",
+    "scorer_code": 516374.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 875,
+    "match_id": 1821758,
+    "team_code": 67,
+    "scorer_name": "García Pascual",
+    "scorer_code": 549016.0,
+    "minute": 52.0
+  },
+  {
+    "goal_id": 876,
+    "match_id": 1821759,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 877,
+    "match_id": 1821759,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 878,
+    "match_id": 1821759,
+    "team_code": 839,
+    "scorer_name": "Nicolas Pépé",
+    "scorer_code": 239872.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 879,
+    "match_id": 1821760,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 880,
+    "match_id": 1821760,
+    "team_code": 63,
+    "scorer_name": "Robin Le Normand",
+    "scorer_code": 367008.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 881,
+    "match_id": 1821760,
+    "team_code": 54,
+    "scorer_name": "Pablo Fornals",
+    "scorer_code": 297203.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 882,
+    "match_id": 1821760,
+    "team_code": 63,
+    "scorer_name": "Julián Alvarez",
+    "scorer_code": 365409.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 883,
+    "match_id": 1821760,
+    "team_code": 63,
+    "scorer_name": "Ángel Correa",
+    "scorer_code": 127604.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 884,
+    "match_id": 1821761,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 885,
+    "match_id": 1821761,
+    "team_code": 65,
+    "scorer_name": "Lamine Yamal",
+    "scorer_code": 480249.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 886,
+    "match_id": 1821761,
+    "team_code": 65,
+    "scorer_name": "Fermín López",
+    "scorer_code": 463838.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 887,
+    "match_id": 1821761,
+    "team_code": 839,
+    "scorer_name": "Santi Comesaña",
+    "scorer_code": 362735.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 888,
+    "match_id": 1821761,
+    "team_code": 839,
+    "scorer_name": "Tajon Buchanan",
+    "scorer_code": 371027.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 889,
+    "match_id": 1821762,
+    "team_code": 62,
+    "scorer_name": "Marcos Alonso",
+    "scorer_code": 84008.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 890,
+    "match_id": 1821762,
+    "team_code": 64,
+    "scorer_name": "Isi Palazón",
+    "scorer_code": 422959.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 891,
+    "match_id": 1821762,
+    "team_code": 64,
+    "scorer_name": "Jorge de Frutos",
+    "scorer_code": 386230.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 892,
+    "match_id": 1821763,
+    "team_code": 53,
+    "scorer_name": "Alex Berenguer",
+    "scorer_code": 238899.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 893,
+    "match_id": 1821764,
+    "team_code": 819,
+    "scorer_name": "Mauro Arambarri",
+    "scorer_code": 303016.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 894,
+    "match_id": 1821764,
+    "team_code": 819,
+    "scorer_name": "Christantus Uche",
+    "scorer_code": 531674.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 895,
+    "match_id": 1821764,
+    "team_code": 51,
+    "scorer_name": "Cyle Larin",
+    "scorer_code": 273229.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 896,
+    "match_id": 1821765,
+    "team_code": 68,
+    "scorer_name": "Pablo Marín",
+    "scorer_code": 459677.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 897,
+    "match_id": 1821765,
+    "team_code": 2783,
+    "scorer_name": "Cristhian Stuani",
+    "scorer_code": 24400.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 898,
+    "match_id": 1821765,
+    "team_code": 68,
+    "scorer_name": "Mikel Oyarzabal",
+    "scorer_code": 298839.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 899,
+    "match_id": 1821765,
+    "team_code": 2783,
+    "scorer_name": "Portu",
+    "scorer_code": 106895.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 900,
+    "match_id": 1821765,
+    "team_code": 68,
+    "scorer_name": "Arkaitz Mariezkurrena",
+    "scorer_code": 546575.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 901,
+    "match_id": 1821766,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 902,
+    "match_id": 1821766,
+    "team_code": 52,
+    "scorer_name": "Jude Bellingham",
+    "scorer_code": 379868.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 903,
+    "match_id": 1821767,
+    "team_code": 60,
+    "scorer_name": "Kike García",
+    "scorer_code": 79840.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 904,
+    "match_id": 1821768,
+    "team_code": 825,
+    "scorer_name": "Dani Raba",
+    "scorer_code": 334221.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 905,
+    "match_id": 1821769,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 906,
+    "match_id": 1821769,
+    "team_code": 65,
+    "scorer_name": "Robert Lewandowski",
+    "scorer_code": 29400.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 907,
+    "match_id": 1821769,
+    "team_code": 65,
+    "scorer_name": "Dani Olmo",
+    "scorer_code": 261212.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 908,
+    "match_id": 1821770,
+    "team_code": 54,
+    "scorer_name": "Antony",
+    "scorer_code": 364315.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 909,
+    "match_id": 1821770,
+    "team_code": 55,
+    "scorer_name": "Rafa Mir",
+    "scorer_code": 300369.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 910,
+    "match_id": 1821771,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 911,
+    "match_id": 1821771,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 912,
+    "match_id": 1821772,
+    "team_code": 60,
+    "scorer_name": "Carlos Vicente",
+    "scorer_code": 462861.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 913,
+    "match_id": 1821772,
+    "team_code": 131,
+    "scorer_name": "Raúl García",
+    "scorer_code": 383924.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 914,
+    "match_id": 1821773,
+    "team_code": 825,
+    "scorer_name": "Javi Hernández",
+    "scorer_code": 395304.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 915,
+    "match_id": 1821773,
+    "team_code": 825,
+    "scorer_name": "Yan Diomande",
+    "scorer_code": 557000.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 916,
+    "match_id": 1821773,
+    "team_code": 825,
+    "scorer_name": "Juan Cruz",
+    "scorer_code": 357786.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 917,
+    "match_id": 1821774,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 918,
+    "match_id": 1821774,
+    "team_code": 63,
+    "scorer_name": "Clément Lenglet",
+    "scorer_code": 236511.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 919,
+    "match_id": 1821774,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 920,
+    "match_id": 1821774,
+    "team_code": 63,
+    "scorer_name": "Alexander Sørloth",
+    "scorer_code": 302497.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 921,
+    "match_id": 1821775,
+    "team_code": 819,
+    "scorer_name": "Borja Mayoral",
+    "scorer_code": 278721.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 922,
+    "match_id": 1821775,
+    "team_code": 62,
+    "scorer_name": "Borja Iglesias",
+    "scorer_code": 259042.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 923,
+    "match_id": 1821775,
+    "team_code": 62,
+    "scorer_name": "Iago Aspas",
+    "scorer_code": 91242.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 924,
+    "match_id": 1821777,
+    "team_code": 839,
+    "scorer_name": "Yeremy Pino",
+    "scorer_code": 403865.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 925,
+    "match_id": 1821777,
+    "team_code": 839,
+    "scorer_name": "Pape Gueye",
+    "scorer_code": 399047.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 926,
+    "match_id": 1821777,
+    "team_code": 67,
+    "scorer_name": "Djibril Sow",
+    "scorer_code": 317630.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 927,
+    "match_id": 1821777,
+    "team_code": 839,
+    "scorer_name": "Álex Baena",
+    "scorer_code": 395242.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 928,
+    "match_id": 1821777,
+    "team_code": 839,
+    "scorer_name": "Pape Gueye",
+    "scorer_code": 399047.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 929,
+    "match_id": 1821777,
+    "team_code": 67,
+    "scorer_name": "Ramón Martínez",
+    "scorer_code": 536136.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 930,
+    "match_id": 1825691,
+    "team_code": 58,
+    "scorer_name": "Raúl Moro",
+    "scorer_code": 396490.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 931,
+    "match_id": 1825693,
+    "team_code": 64,
+    "scorer_name": "Álvaro García",
+    "scorer_code": 135345.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 932,
+    "match_id": 1825693,
+    "team_code": 70,
+    "scorer_name": "Carlos Romero",
+    "scorer_code": 468931.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 933,
+    "match_id": 1825693,
+    "team_code": 70,
+    "scorer_name": "Alejo Véliz",
+    "scorer_code": 414269.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 934,
+    "match_id": 1825694,
+    "team_code": 68,
+    "scorer_name": "Takefusa Kubo",
+    "scorer_code": 377285.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 935,
+    "match_id": 1825695,
+    "team_code": 70,
+    "scorer_name": "Jofre Carreras",
+    "scorer_code": 430451.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 936,
+    "match_id": 1825695,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 937,
+    "match_id": 1825695,
+    "team_code": 839,
+    "scorer_name": "Ayoze Pérez",
+    "scorer_code": 135366.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 938,
+    "match_id": 1825696,
+    "team_code": 70,
+    "scorer_name": "Marash Kumbulla",
+    "scorer_code": 343778.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 939,
+    "match_id": 1825696,
+    "team_code": 70,
+    "scorer_name": "Jofre Carreras",
+    "scorer_code": 430451.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 940,
+    "match_id": 1825696,
+    "team_code": 51,
+    "scorer_name": "Antonio Raíllo",
+    "scorer_code": 294006.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 941,
+    "match_id": 1825697,
+    "team_code": 70,
+    "scorer_name": "Javi Puado",
+    "scorer_code": 362423.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 942,
+    "match_id": 1825697,
+    "team_code": 60,
+    "scorer_name": "Tomás Conechny",
+    "scorer_code": 298834.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 943,
+    "match_id": 1825697,
+    "team_code": 70,
+    "scorer_name": "Javi Puado",
+    "scorer_code": 362423.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 944,
+    "match_id": 1825697,
+    "team_code": 70,
+    "scorer_name": "Javi Puado",
+    "scorer_code": 362423.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 945,
+    "match_id": 1825697,
+    "team_code": 60,
+    "scorer_name": "Nahuel Tenaglia",
+    "scorer_code": 347874.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 946,
+    "match_id": 1825698,
+    "team_code": 54,
+    "scorer_name": "Giovani Lo Celso",
+    "scorer_code": 303908.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 947,
+    "match_id": 1825699,
+    "team_code": 53,
+    "scorer_name": "Dani Vivian",
+    "scorer_code": 357839.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 948,
+    "match_id": 1825699,
+    "team_code": 53,
+    "scorer_name": "Iñaki Williams",
+    "scorer_code": 255182.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 949,
+    "match_id": 1825699,
+    "team_code": 53,
+    "scorer_name": "Iñaki Williams",
+    "scorer_code": 255182.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 950,
+    "match_id": 1825699,
+    "team_code": 53,
+    "scorer_name": "Alex Berenguer",
+    "scorer_code": 238899.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 951,
+    "match_id": 1825699,
+    "team_code": 70,
+    "scorer_name": "Álvaro Tejero",
+    "scorer_code": 312851.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 952,
+    "match_id": 1825700,
+    "team_code": 70,
+    "scorer_name": "Thibaut Courtois",
+    "scorer_code": 73798.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 953,
+    "match_id": 1825700,
+    "team_code": 52,
+    "scorer_name": "Dani Carvajal",
+    "scorer_code": 106883.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 954,
+    "match_id": 1825700,
+    "team_code": 52,
+    "scorer_name": "Rodrygo",
+    "scorer_code": 347862.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 955,
+    "match_id": 1825700,
+    "team_code": 52,
+    "scorer_name": "Vinícius Júnior",
+    "scorer_code": 337782.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 956,
+    "match_id": 1825700,
+    "team_code": 52,
+    "scorer_name": "Kylian Mbappé",
+    "scorer_code": 300713.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 957,
+    "match_id": 1825701,
+    "team_code": 65,
+    "scorer_name": "Dani Olmo",
+    "scorer_code": 261212.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 958,
+    "match_id": 1825701,
+    "team_code": 65,
+    "scorer_name": "Raphinha",
+    "scorer_code": 300447.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 959,
+    "match_id": 1825701,
+    "team_code": 65,
+    "scorer_name": "Dani Olmo",
+    "scorer_code": 261212.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 960,
+    "match_id": 1825701,
+    "team_code": 70,
+    "scorer_name": "Javi Puado",
+    "scorer_code": 362423.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 961,
+    "match_id": 1825702,
+    "team_code": 67,
+    "scorer_name": "Dodi Lukébakio",
+    "scorer_code": 299490.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 962,
+    "match_id": 1825702,
+    "team_code": 67,
+    "scorer_name": "Dodi Lukébakio",
+    "scorer_code": 299490.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 963,
+    "match_id": 1825703,
+    "team_code": 70,
+    "scorer_name": "Javi Puado",
+    "scorer_code": 362423.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 964,
+    "match_id": 1825703,
+    "team_code": 55,
+    "scorer_name": "Diego López",
+    "scorer_code": 422656.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 965,
+    "match_id": 1825704,
+    "team_code": 2783,
+    "scorer_name": "Bryan Gil",
+    "scorer_code": 368519.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 966,
+    "match_id": 1825704,
+    "team_code": 2783,
+    "scorer_name": "Bojan Miovski",
+    "scorer_code": 424737.0,
+    "minute": 16.0
+  },
+  {
+    "goal_id": 967,
+    "match_id": 1825704,
+    "team_code": 2783,
+    "scorer_name": "Bojan Miovski",
+    "scorer_code": 424737.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 968,
+    "match_id": 1825704,
+    "team_code": 2783,
+    "scorer_name": "Ladislav Krejcí",
+    "scorer_code": 404245.0,
+    "minute": 27.0
+  },
+  {
+    "goal_id": 969,
+    "match_id": 1825704,
+    "team_code": 70,
+    "scorer_name": "Javi Puado",
+    "scorer_code": 362423.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 970,
+    "match_id": 1825706,
+    "team_code": 70,
+    "scorer_name": "Irvin Cardona",
+    "scorer_code": 333419.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 971,
+    "match_id": 1825706,
+    "team_code": 70,
+    "scorer_name": "Leandro Cabrera",
+    "scorer_code": 73265.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 972,
+    "match_id": 1825706,
+    "team_code": 62,
+    "scorer_name": "Iago Aspas",
+    "scorer_code": 91242.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 973,
+    "match_id": 1825706,
+    "team_code": 70,
+    "scorer_name": "Walid Cheddira",
+    "scorer_code": 447146.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 974,
+    "match_id": 1825707,
+    "team_code": 838,
+    "scorer_name": "Sandro Ramírez",
+    "scorer_code": 135242.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 975,
+    "match_id": 1825708,
+    "team_code": 819,
+    "scorer_name": "Álvaro Rodríguez",
+    "scorer_code": 460772.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 976,
+    "match_id": 1825709,
+    "team_code": 70,
+    "scorer_name": "Leandro Cabrera",
+    "scorer_code": 73265.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 977,
+    "match_id": 1825709,
+    "team_code": 825,
+    "scorer_name": "Seydouba Cissé",
+    "scorer_code": 448222.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 978,
+    "match_id": 1825710,
+    "team_code": 70,
+    "scorer_name": "Vedat Muriqi",
+    "scorer_code": 254352.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 979,
+    "match_id": 1825710,
+    "team_code": 51,
+    "scorer_name": "Takuma Asano",
+    "scorer_code": 126316.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 980,
+    "match_id": 1825710,
+    "team_code": 51,
+    "scorer_name": "Vedat Muriqi",
+    "scorer_code": 254352.0,
+    "minute": 96.0
+  },
+  {
+    "goal_id": 981,
+    "match_id": 1825711,
+    "team_code": 70,
+    "scorer_name": "Fernando Calero",
+    "scorer_code": 362354.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 982,
+    "match_id": 1825712,
+    "team_code": 839,
+    "scorer_name": "Yeremy Pino",
+    "scorer_code": 403865.0,
+    "minute": 52.0
+  },
+  {
+    "goal_id": 983,
+    "match_id": 1825713,
+    "team_code": 70,
+    "scorer_name": "Carlos Romero",
+    "scorer_code": 468931.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 984,
+    "match_id": 1825714,
+    "team_code": 70,
+    "scorer_name": "Jofre Carreras",
+    "scorer_code": 430451.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 985,
+    "match_id": 1825714,
+    "team_code": 2783,
+    "scorer_name": "Cristhian Stuani",
+    "scorer_code": 24400.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 986,
+    "match_id": 1825715,
+    "team_code": 68,
+    "scorer_name": "Sheraldo Becker",
+    "scorer_code": 137227.0,
+    "minute": 1.0
+  },
+  {
+    "goal_id": 987,
+    "match_id": 1825715,
+    "team_code": 70,
+    "scorer_name": "Javi Puado",
+    "scorer_code": 362423.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 988,
+    "match_id": 1825715,
+    "team_code": 68,
+    "scorer_name": "Brais Méndez",
+    "scorer_code": 344542.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 989,
+    "match_id": 1825716,
+    "team_code": 70,
+    "scorer_name": "Roberto Fernández",
+    "scorer_code": 448296.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 990,
+    "match_id": 1825716,
+    "team_code": 53,
+    "scorer_name": "Oihan Sancet",
+    "scorer_code": 381510.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 991,
+    "match_id": 1825717,
+    "team_code": 70,
+    "scorer_name": "Javi Puado",
+    "scorer_code": 362423.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 992,
+    "match_id": 1825717,
+    "team_code": 58,
+    "scorer_name": "Javi Sánchez",
+    "scorer_code": 362276.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 993,
+    "match_id": 1825717,
+    "team_code": 70,
+    "scorer_name": "Roberto Fernández",
+    "scorer_code": 448296.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 994,
+    "match_id": 1825718,
+    "team_code": 70,
+    "scorer_name": "Marash Kumbulla",
+    "scorer_code": 343778.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 995,
+    "match_id": 1825718,
+    "team_code": 67,
+    "scorer_name": "Loïc Badé",
+    "scorer_code": 398416.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 996,
+    "match_id": 1825719,
+    "team_code": 63,
+    "scorer_name": "César Azpilicueta",
+    "scorer_code": 25931.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 997,
+    "match_id": 1825719,
+    "team_code": 70,
+    "scorer_name": "Javi Puado",
+    "scorer_code": 362423.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 998,
+    "match_id": 1825720,
+    "team_code": 70,
+    "scorer_name": "Roberto Fernández",
+    "scorer_code": 448296.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 999,
+    "match_id": 1825720,
+    "team_code": 70,
+    "scorer_name": "Roberto Fernández",
+    "scorer_code": 448296.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 1000,
+    "match_id": 1825721,
+    "team_code": 70,
+    "scorer_name": "Leandro Cabrera",
+    "scorer_code": 73265.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 1001,
+    "match_id": 1825721,
+    "team_code": 70,
+    "scorer_name": "Roberto Fernández",
+    "scorer_code": 448296.0,
+    "minute": 16.0
+  },
+  {
+    "goal_id": 1002,
+    "match_id": 1825721,
+    "team_code": 70,
+    "scorer_name": "Javi Puado",
+    "scorer_code": 362423.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 1003,
+    "match_id": 1825721,
+    "team_code": 70,
+    "scorer_name": "Pere Milla",
+    "scorer_code": 140772.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 1004,
+    "match_id": 1825722,
+    "team_code": 70,
+    "scorer_name": "Marash Kumbulla",
+    "scorer_code": 343778.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 1005,
+    "match_id": 1825723,
+    "team_code": 70,
+    "scorer_name": "Javi Puado",
+    "scorer_code": 362423.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 1006,
+    "match_id": 1825723,
+    "team_code": 55,
+    "scorer_name": "Javi Guerra",
+    "scorer_code": 431507.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 1007,
+    "match_id": 1825724,
+    "team_code": 70,
+    "scorer_name": "Roberto Fernández",
+    "scorer_code": 448296.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 1008,
+    "match_id": 1825724,
+    "team_code": 54,
+    "scorer_name": "Giovani Lo Celso",
+    "scorer_code": 303908.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 1009,
+    "match_id": 1825724,
+    "team_code": 54,
+    "scorer_name": "Antony",
+    "scorer_code": 364315.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 1010,
+    "match_id": 1825725,
+    "team_code": 825,
+    "scorer_name": "Seydouba Cissé",
+    "scorer_code": 448222.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 1011,
+    "match_id": 1825725,
+    "team_code": 825,
+    "scorer_name": "Yan Diomande",
+    "scorer_code": 557000.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 1012,
+    "match_id": 1825725,
+    "team_code": 825,
+    "scorer_name": "Marash Kumbulla",
+    "scorer_code": 343778.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 1013,
+    "match_id": 1825725,
+    "team_code": 70,
+    "scorer_name": "Leandro Cabrera",
+    "scorer_code": 73265.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 1014,
+    "match_id": 1825725,
+    "team_code": 70,
+    "scorer_name": "Pere Milla",
+    "scorer_code": 140772.0,
+    "minute": 97.0
+  },
+  {
+    "goal_id": 1015,
+    "match_id": 1825726,
+    "team_code": 65,
+    "scorer_name": "Lamine Yamal",
+    "scorer_code": 480249.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 1016,
+    "match_id": 1825726,
+    "team_code": 65,
+    "scorer_name": "Fermín López",
+    "scorer_code": 463838.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 1017,
+    "match_id": 1825727,
+    "team_code": 131,
+    "scorer_name": "Ante Budimir",
+    "scorer_code": 98126.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 1018,
+    "match_id": 1825727,
+    "team_code": 131,
+    "scorer_name": "Raúl García",
+    "scorer_code": 383924.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 1019,
+    "match_id": 1825728,
+    "team_code": 70,
+    "scorer_name": "Javi Puado",
+    "scorer_code": 362423.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 1020,
+    "match_id": 1825728,
+    "team_code": 70,
+    "scorer_name": "Pere Milla",
+    "scorer_code": 140772.0,
+    "minute": 82.0
+  }
+]
